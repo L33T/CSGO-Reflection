@@ -1,0 +1,15 @@
+DT_SteamJet, base DT_BaseParticleEntity
+12 properties
+
+DataTable baseclass ("DT_BaseParticleEntity")
+Single m_SpreadSpeed
+Single m_Speed
+Single m_StartSize
+Single m_EndSize
+Single m_Rate
+Single m_JetLength
+Int32 m_bEmit
+Int32 m_bFaceLeft
+Int32 m_nType
+Int32 m_spawnflags
+Single m_flRollSpeed

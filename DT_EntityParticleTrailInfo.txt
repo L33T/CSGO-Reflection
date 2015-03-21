@@ -1,0 +1,6 @@
+DT_EntityParticleTrailInfo
+3 properties
+
+Single m_flLifetime
+Single m_flStartSize
+Single m_flEndSize

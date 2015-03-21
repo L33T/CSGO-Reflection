@@ -1,0 +1,14 @@
+DT_TEPhysicsProp, base DT_BaseTempEntity
+11 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+Vector m_vecOrigin
+Single m_angRotation[0]
+Single m_angRotation[1]
+Single m_angRotation[2]
+Vector m_vecVelocity
+Int32 m_nModelIndex
+Int32 m_nFlags
+Int32 m_nSkin
+Int32 m_nEffects
+Int32 m_clrRender

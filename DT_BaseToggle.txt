@@ -1,0 +1,7 @@
+DT_BaseToggle, base DT_BaseEntity
+4 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Vector m_vecFinalDest
+Int32 m_movementType
+Single m_flMoveTargetTime

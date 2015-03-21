@@ -1,0 +1,11 @@
+DT_Plasma, base DT_BaseEntity
+8 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Single m_flStartScale
+Single m_flScale
+Single m_flScaleTime
+Int32 m_nFlags
+Int32 m_nPlasmaModelIndex
+Int32 m_nPlasmaModelIndex2
+Int32 m_nGlowModelIndex

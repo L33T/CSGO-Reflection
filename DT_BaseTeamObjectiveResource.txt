@@ -1,0 +1,32 @@
+DT_BaseTeamObjectiveResource
+29 properties
+
+Int32 m_iTimerToShowInHUD
+Int32 m_iStopWatchTimer
+Int32 m_iNumControlPoints
+Int32 m_bPlayingMiniRounds
+Int32 m_bControlPointsReset
+Int32 m_iUpdateCapHudParity
+Vector m_vCPPositions[0]
+Array m_vCPPositions (count 8)
+DataTable m_bCPIsVisible ("m_bCPIsVisible")
+DataTable m_flLazyCapPerc ("m_flLazyCapPerc")
+DataTable m_iTeamIcons ("m_iTeamIcons")
+DataTable m_iTeamOverlays ("m_iTeamOverlays")
+DataTable m_iTeamReqCappers ("m_iTeamReqCappers")
+DataTable m_flTeamCapTime ("m_flTeamCapTime")
+DataTable m_iPreviousPoints ("m_iPreviousPoints")
+DataTable m_bTeamCanCap ("m_bTeamCanCap")
+DataTable m_iTeamBaseIcons ("m_iTeamBaseIcons")
+DataTable m_iBaseControlPoints ("m_iBaseControlPoints")
+DataTable m_bInMiniRound ("m_bInMiniRound")
+DataTable m_iWarnOnCap ("m_iWarnOnCap")
+String m_iszWarnSound[0] (length 255)
+Array m_iszWarnSound (count 8)
+DataTable m_flPathDistance ("m_flPathDistance")
+DataTable m_iNumTeamMembers ("m_iNumTeamMembers")
+DataTable m_iCappingTeam ("m_iCappingTeam")
+DataTable m_iTeamInZone ("m_iTeamInZone")
+DataTable m_bBlocked ("m_bBlocked")
+DataTable m_iOwner ("m_iOwner")
+String m_pszCapLayoutInHUD (length 32)

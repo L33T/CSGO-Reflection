@@ -1,0 +1,27 @@
+DT_RopeKeyframe
+24 properties
+
+Int32 m_nChangeCount
+Int32 m_iRopeMaterialModelIndex
+Int32 m_hStartPoint
+Int32 m_hEndPoint
+Int32 m_iStartAttachment
+Int32 m_iEndAttachment
+Int32 m_fLockedPoints
+Int32 m_Slack
+Int32 m_RopeLength
+Int32 m_RopeFlags
+Single m_TextureScale
+Int32 m_nSegments
+Int32 m_bConstrainBetweenEndpoints
+Int32 m_Subdiv
+Single m_Width
+Single m_flScrollSpeed
+Vector m_vecOrigin
+Int32 moveparent
+Int32 m_iParentAttachment
+Int32 m_iDefaultRopeMaterialModelIndex
+Int32 m_nMinCPULevel
+Int32 m_nMaxCPULevel
+Int32 m_nMinGPULevel
+Int32 m_nMaxGPULevel

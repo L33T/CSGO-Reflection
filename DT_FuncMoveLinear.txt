@@ -1,0 +1,6 @@
+DT_FuncMoveLinear, base DT_BaseToggle
+3 properties
+
+DataTable baseclass ("DT_BaseToggle")
+Vector m_vecVelocity
+Int32 m_fFlags

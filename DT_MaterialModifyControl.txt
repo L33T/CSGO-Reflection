@@ -1,0 +1,17 @@
+DT_MaterialModifyControl, base DT_BaseEntity
+14 properties
+
+DataTable baseclass ("DT_BaseEntity")
+String m_szMaterialName (length 255)
+String m_szMaterialVar (length 255)
+String m_szMaterialVarValue (length 255)
+Int32 m_iFrameStart
+Int32 m_iFrameEnd
+Int32 m_bWrap
+Single m_flFramerate
+Int32 m_bNewAnimCommandsSemaphore
+Single m_flFloatLerpStartValue
+Single m_flFloatLerpEndValue
+Single m_flFloatLerpTransitionTime
+Int32 m_bFloatLerpWrap
+Int32 m_nModifyMode

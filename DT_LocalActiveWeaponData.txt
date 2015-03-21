@@ -1,0 +1,7 @@
+DT_LocalActiveWeaponData
+4 properties
+
+Single m_flNextPrimaryAttack
+Single m_flNextSecondaryAttack
+Int32 m_nNextThinkTick
+Single m_flTimeWeaponIdle

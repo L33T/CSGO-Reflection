@@ -1,0 +1,4 @@
+DT_DecoyGrenade, base DT_BaseCSGrenade
+1 properties
+
+DataTable baseclass ("DT_BaseCSGrenade")

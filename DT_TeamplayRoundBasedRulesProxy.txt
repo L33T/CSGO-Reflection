@@ -1,0 +1,5 @@
+DT_TeamplayRoundBasedRulesProxy, base DT_GameRulesProxy
+2 properties
+
+DataTable baseclass ("DT_GameRulesProxy")
+DataTable teamplayroundbased_gamerules_data ("DT_TeamplayRoundBasedRules")

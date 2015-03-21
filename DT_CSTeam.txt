@@ -1,0 +1,4 @@
+DT_CSTeam, base DT_Team
+1 properties
+
+DataTable baseclass ("DT_Team")

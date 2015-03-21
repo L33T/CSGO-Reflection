@@ -1,0 +1,9 @@
+DT_Inferno, base DT_BaseEntity
+6 properties
+
+DataTable baseclass ("DT_BaseEntity")
+DataTable m_fireXDelta ("m_fireXDelta")
+DataTable m_fireYDelta ("m_fireYDelta")
+DataTable m_fireZDelta ("m_fireZDelta")
+DataTable m_bFireIsBurning ("m_bFireIsBurning")
+Int32 m_fireCount

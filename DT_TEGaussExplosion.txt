@@ -1,0 +1,6 @@
+DT_TEGaussExplosion, base DT_TEParticleSystem
+3 properties
+
+DataTable baseclass ("DT_TEParticleSystem")
+Int32 m_nType
+Vector m_vecDirection

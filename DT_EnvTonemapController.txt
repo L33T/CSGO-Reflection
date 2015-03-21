@@ -1,0 +1,17 @@
+DT_EnvTonemapController, base DT_BaseEntity
+14 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Int32 m_bUseCustomAutoExposureMin
+Int32 m_bUseCustomAutoExposureMax
+Int32 m_bUseCustomBloomScale
+Single m_flCustomAutoExposureMin
+Single m_flCustomAutoExposureMax
+Single m_flCustomBloomScale
+Single m_flCustomBloomScaleMinimum
+Single m_flBloomExponent
+Single m_flBloomSaturation
+Single m_flTonemapPercentTarget
+Single m_flTonemapPercentBrightPixels
+Single m_flTonemapMinAvgLum
+Single m_flTonemapRate

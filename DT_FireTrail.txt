@@ -1,0 +1,6 @@
+DT_FireTrail, base DT_BaseParticleEntity
+3 properties
+
+DataTable baseclass ("DT_BaseParticleEntity")
+Int32 m_nAttachment
+Single m_flLifetime

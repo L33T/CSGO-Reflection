@@ -1,0 +1,8 @@
+DT_TEImpact, base DT_BaseTempEntity
+5 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+Vector m_vecOrigin
+Vector m_vecNormal
+Int32 m_iType
+Int32 m_ucFlags

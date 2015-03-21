@@ -1,0 +1,5 @@
+DT_TEFoundryHelpers, base DT_BaseTempEntity
+2 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+Int32 m_iEntity

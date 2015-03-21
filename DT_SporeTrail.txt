@@ -1,0 +1,11 @@
+DT_SporeTrail, base DT_BaseParticleEntity
+8 properties
+
+DataTable baseclass ("DT_BaseParticleEntity")
+Single m_flSpawnRate
+Vector m_vecEndColor
+Single m_flParticleLifetime
+Single m_flStartSize
+Single m_flEndSize
+Single m_flSpawnRadius
+Int32 m_bEmit

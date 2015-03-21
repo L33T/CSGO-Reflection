@@ -1,0 +1,5 @@
+DT_PhysBox, base DT_BaseEntity
+2 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Single m_mass

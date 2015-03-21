@@ -1,0 +1,9 @@
+DT_TEFootprintDecal, base DT_BaseTempEntity
+6 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+Vector m_vecOrigin
+Vector m_vecDirection
+Int32 m_nEntity
+Int32 m_nIndex
+Int32 m_chMaterialType

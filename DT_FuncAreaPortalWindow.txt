@@ -1,0 +1,8 @@
+DT_FuncAreaPortalWindow, base DT_BaseEntity
+5 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Single m_flFadeStartDist
+Single m_flFadeDist
+Single m_flTranslucencyLimit
+Int32 m_iBackgroundModelIndex

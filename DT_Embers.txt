@@ -1,0 +1,8 @@
+DT_Embers, base DT_BaseEntity
+5 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Int32 m_nDensity
+Int32 m_nLifetime
+Int32 m_nSpeed
+Int32 m_bEmit

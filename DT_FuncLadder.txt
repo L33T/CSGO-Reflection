@@ -1,0 +1,8 @@
+DT_FuncLadder, base DT_BaseEntity
+5 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Vector m_vecPlayerMountPositionTop
+Vector m_vecPlayerMountPositionBottom
+Vector m_vecLadderDir
+Int32 m_bFakeLadder

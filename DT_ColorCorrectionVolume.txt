@@ -1,0 +1,9 @@
+DT_ColorCorrectionVolume, base DT_BaseTrigger
+6 properties
+
+DataTable baseclass ("DT_BaseTrigger")
+Int32 m_bEnabled
+Single m_MaxWeight
+Single m_FadeDuration
+Single m_Weight
+String m_lookupFilename (length 260)

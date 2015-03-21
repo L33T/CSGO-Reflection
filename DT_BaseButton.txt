@@ -1,0 +1,5 @@
+DT_BaseButton, base DT_BaseToggle
+2 properties
+
+DataTable baseclass ("DT_BaseToggle")
+Int32 m_usable

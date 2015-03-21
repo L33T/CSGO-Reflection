@@ -1,0 +1,18 @@
+DT_TEShatterSurface, base DT_BaseTempEntity
+15 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+Vector m_vecOrigin
+Vector m_vecAngles
+Vector m_vecForce
+Vector m_vecForcePos
+Single m_flWidth
+Single m_flHeight
+Single m_flShardSize
+Int32 m_nSurfaceType
+Int32 m_uchFrontColor[0]
+Int32 m_uchFrontColor[1]
+Int32 m_uchFrontColor[2]
+Int32 m_uchBackColor[0]
+Int32 m_uchBackColor[1]
+Int32 m_uchBackColor[2]

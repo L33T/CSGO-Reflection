@@ -1,0 +1,4 @@
+DT_ServerAnimationData
+1 properties
+
+Single m_flCycle

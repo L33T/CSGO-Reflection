@@ -1,0 +1,21 @@
+DT_FogController
+18 properties
+
+Int32 m_fog.enable
+Int32 m_fog.blend
+Vector m_fog.dirPrimary
+Int32 m_fog.colorPrimary
+Int32 m_fog.colorSecondary
+Single m_fog.start
+Single m_fog.end
+Single m_fog.farz
+Single m_fog.maxdensity
+Int32 m_fog.colorPrimaryLerpTo
+Int32 m_fog.colorSecondaryLerpTo
+Single m_fog.startLerpTo
+Single m_fog.endLerpTo
+Single m_fog.maxdensityLerpTo
+Single m_fog.lerptime
+Single m_fog.duration
+Single m_fog.HDRColorScale
+Single m_fog.ZoomFogScale

@@ -1,0 +1,11 @@
+DT_CollisionProperty
+8 properties
+
+Vector m_vecMins
+Vector m_vecMaxs
+Int32 m_nSolidType
+Int32 m_usSolidFlags
+Int32 m_nSurroundType
+Int32 m_triggerBloat
+Vector m_vecSpecifiedSurroundingMins
+Vector m_vecSpecifiedSurroundingMaxs

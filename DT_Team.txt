@@ -1,0 +1,19 @@
+DT_Team
+16 properties
+
+Int32 m_iTeamNum
+Int32 m_bSurrendered
+Int32 m_scoreTotal
+Int32 m_scoreFirstHalf
+Int32 m_scoreSecondHalf
+Int32 m_scoreOvertime
+Int32 m_iClanID
+String m_szTeamname (length 32)
+String m_szClanTeamname (length 32)
+String m_szTeamFlagImage (length 8)
+String m_szTeamLogoImage (length 8)
+String m_szTeamMatchStat (length 260)
+Int32 m_nGGLeaderEntIndex_CT
+Int32 m_nGGLeaderEntIndex_T
+Int32 player_array_element
+Array "player_array" (count 64)

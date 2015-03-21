@@ -1,0 +1,9 @@
+DT_TEGlowSprite, base DT_BaseTempEntity
+6 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+Vector m_vecOrigin
+Int32 m_nModelIndex
+Single m_fScale
+Single m_fLife
+Int32 m_nBrightness

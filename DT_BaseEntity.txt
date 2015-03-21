@@ -1,0 +1,44 @@
+DT_BaseEntity
+41 properties
+
+DataTable AnimTimeMustBeFirst ("DT_AnimTimeMustBeFirst")
+Int32 m_flSimulationTime
+Int32 m_cellbits
+Int32 m_cellX
+Int32 m_cellY
+Int32 m_cellZ
+Vector m_vecOrigin
+Vector m_angRotation
+Int32 m_nModelIndex
+Int32 m_fEffects
+Int32 m_nRenderMode
+Int32 m_nRenderFX
+Int32 m_clrRender
+Int32 m_iTeamNum
+Int32 m_iPendingTeamNum
+Int32 m_CollisionGroup
+Single m_flElasticity
+Single m_flShadowCastDistance
+Int32 m_hOwnerEntity
+Int32 m_hEffectEntity
+Int32 moveparent
+Int32 m_iParentAttachment
+String m_iName (length 260)
+Int32 movetype
+Int32 movecollide
+DataTable m_Collision ("DT_CollisionProperty")
+Int32 m_iTextureFrameIndex
+Int32 m_bSimulatedEveryTick
+Int32 m_bAnimatedEveryTick
+Int32 m_bAlternateSorting
+Int32 m_bSpotted
+DataTable m_bSpottedBy ("m_bSpottedBy")
+DataTable m_bSpottedByMask ("m_bSpottedByMask")
+Int32 m_bIsAutoaimTarget
+Single m_fadeMinDist
+Single m_fadeMaxDist
+Single m_flFadeScale
+Int32 m_nMinCPULevel
+Int32 m_nMaxCPULevel
+Int32 m_nMinGPULevel
+Int32 m_nMaxGPULevel

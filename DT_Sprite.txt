@@ -1,0 +1,15 @@
+DT_Sprite, base DT_BaseEntity
+12 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Int32 m_hAttachedToEntity
+Int32 m_nAttachment
+Single m_flScaleTime
+Single m_flSpriteScale
+Single m_flSpriteFramerate
+Single m_flGlowProxySize
+Single m_flHDRColorScale
+Single m_flFrame
+Single m_flBrightnessTime
+Int32 m_nBrightness
+Int32 m_bWorldSpaceScale

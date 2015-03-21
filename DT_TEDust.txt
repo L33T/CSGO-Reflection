@@ -1,0 +1,7 @@
+DT_TEDust, base DT_TEParticleSystem
+4 properties
+
+DataTable baseclass ("DT_TEParticleSystem")
+Single m_flSize
+Single m_flSpeed
+Vector m_vecDirection

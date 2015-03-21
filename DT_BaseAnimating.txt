@@ -1,0 +1,25 @@
+DT_BaseAnimating, base DT_BaseEntity
+22 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Int32 m_nSequence
+Int32 m_nForceBone
+Vector m_vecForce
+Int32 m_nSkin
+Int32 m_nBody
+Int32 m_nHitboxSet
+Single m_flModelScale
+DataTable m_flPoseParameter ("m_flPoseParameter")
+Single m_flPlaybackRate
+DataTable m_flEncodedController ("m_flEncodedController")
+Int32 m_bClientSideAnimation
+Int32 m_bClientSideFrameReset
+Int32 m_bClientSideRagdoll
+Int32 m_nNewSequenceParity
+Int32 m_nResetEventsParity
+Int32 m_nMuzzleFlashParity
+Int32 m_hLightingOrigin
+DataTable serveranimdata ("DT_ServerAnimationData")
+Single m_flFrozen
+Int32 m_ScaleType
+Int32 m_bSuppressAnimSounds

@@ -1,0 +1,27 @@
+DT_Beam
+24 properties
+
+Int32 m_nBeamType
+Int32 m_nBeamFlags
+Int32 m_nNumBeamEnts
+DataTable m_hAttachEntity ("m_hAttachEntity")
+DataTable m_nAttachIndex ("m_nAttachIndex")
+Int32 m_nHaloIndex
+Single m_fHaloScale
+Single m_fWidth
+Single m_fEndWidth
+Single m_fFadeLength
+Single m_fAmplitude
+Single m_fStartFrame
+Single m_fSpeed
+Single m_flFrameRate
+Single m_flHDRColorScale
+Int32 m_clrRender
+Int32 m_nRenderFX
+Int32 m_nRenderMode
+Single m_flFrame
+Int32 m_nClipStyle
+Vector m_vecEndPos
+Int32 m_nModelIndex
+Vector m_vecOrigin
+Int32 moveparent

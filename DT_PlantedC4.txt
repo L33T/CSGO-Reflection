@@ -1,0 +1,10 @@
+DT_PlantedC4, base DT_BaseAnimating
+7 properties
+
+DataTable baseclass ("DT_BaseAnimating")
+Int32 m_bBombTicking
+Single m_flC4Blow
+Single m_flTimerLength
+Single m_flDefuseLength
+Single m_flDefuseCountDown
+Int32 m_bBombDefused

@@ -1,0 +1,6 @@
+DT_TEBeamSpline
+3 properties
+
+Int32 m_nPoints
+Vector m_vecPoints[0]
+Array m_vecPoints (count 16)

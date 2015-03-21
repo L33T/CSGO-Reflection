@@ -1,0 +1,14 @@
+DT_CSRagdoll
+11 properties
+
+Vector m_vecOrigin
+Vector m_vecRagdollOrigin
+Int32 m_hPlayer
+Int32 m_nModelIndex
+Int32 m_nForceBone
+Vector m_vecForce
+Vector m_vecRagdollVelocity
+Int32 m_iDeathPose
+Int32 m_iDeathFrame
+Int32 m_iTeamNum
+Int32 m_bClientSideAnimation

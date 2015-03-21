@@ -1,0 +1,9 @@
+DT_ScriptCreatedAttribute
+6 properties
+
+Int32 m_iAttributeDefinitionIndex
+Int32 m_iRawValue32
+Single m_flValue
+Int32 m_iRawInitialValue32
+Int32 m_nRefundableCurrency
+Int32 m_bSetBonus

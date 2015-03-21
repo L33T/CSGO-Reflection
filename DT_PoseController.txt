@@ -1,0 +1,15 @@
+DT_PoseController, base DT_BaseEntity
+12 properties
+
+DataTable baseclass ("DT_BaseEntity")
+DataTable m_hProps ("m_hProps")
+DataTable m_chPoseIndex ("m_chPoseIndex")
+Int32 m_bPoseValueParity
+Single m_fPoseValue
+Single m_fInterpolationTime
+Int32 m_bInterpolationWrap
+Single m_fCycleFrequency
+Int32 m_nFModType
+Single m_fFModTimeOffset
+Single m_fFModRate
+Single m_fFModAmplitude

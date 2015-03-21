@@ -1,0 +1,13 @@
+DT_BreakableSurface, base DT_BaseEntity
+10 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Int32 m_nNumWide
+Int32 m_nNumHigh
+Single m_flPanelWidth
+Single m_flPanelHeight
+Vector m_vNormal
+Vector m_vCorner
+Int32 m_bIsBroken
+Int32 m_nSurfaceType
+DataTable m_RawPanelBitVec ("m_RawPanelBitVec")

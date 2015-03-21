@@ -1,0 +1,11 @@
+DT_Ragdoll, base DT_BaseAnimating
+8 properties
+
+DataTable baseclass ("DT_BaseAnimating")
+Vector m_ragAngles[0]
+Array m_ragAngles (count 24)
+Vector m_ragPos[0]
+Array m_ragPos (count 24)
+Int32 m_hUnragdoll
+Single m_flBlendWeight
+Int32 m_nOverlaySequence

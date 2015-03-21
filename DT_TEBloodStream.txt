@@ -1,0 +1,10 @@
+DT_TEBloodStream, base DT_TEParticleSystem
+7 properties
+
+DataTable baseclass ("DT_TEParticleSystem")
+Vector m_vecDirection
+Int32 r
+Int32 g
+Int32 b
+Int32 a
+Int32 m_nAmount

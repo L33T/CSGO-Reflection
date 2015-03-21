@@ -1,0 +1,4 @@
+DT_WeaponCycler, base DT_BaseCombatWeapon
+1 properties
+
+DataTable baseclass ("DT_BaseCombatWeapon")

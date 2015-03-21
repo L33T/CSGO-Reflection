@@ -1,0 +1,7 @@
+DT_BaseFlex, base DT_BaseAnimatingOverlay
+4 properties
+
+DataTable baseclass ("DT_BaseAnimatingOverlay")
+DataTable m_flexWeight ("m_flexWeight")
+Int32 m_blinktoggle
+Vector m_viewtarget

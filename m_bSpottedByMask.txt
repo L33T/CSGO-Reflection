@@ -1,0 +1,5 @@
+m_bSpottedByMask
+2 properties
+
+Int32 000 (length 279)
+Int32 001 (length 279)

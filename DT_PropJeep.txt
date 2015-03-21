@@ -1,0 +1,5 @@
+DT_PropJeep, base DT_PropVehicleDriveable
+2 properties
+
+DataTable baseclass ("DT_PropVehicleDriveable")
+Int32 m_bHeadlightIsOn

@@ -1,0 +1,9 @@
+DT_FuncRotating, base DT_BaseEntity
+6 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Vector m_vecOrigin
+Single m_angRotation[0]
+Single m_angRotation[1]
+Single m_angRotation[2]
+Int32 m_flSimulationTime

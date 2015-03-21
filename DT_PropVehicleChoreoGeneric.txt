@@ -1,0 +1,19 @@
+DT_PropVehicleChoreoGeneric, base DT_DynamicProp
+16 properties
+
+DataTable baseclass ("DT_DynamicProp")
+Int32 m_hPlayer
+Int32 m_bEnterAnimOn
+Int32 m_bExitAnimOn
+Int32 m_bForceEyesToAttachment
+Vector m_vecEyeExitEndpoint
+Int32 m_vehicleView.bClampEyeAngles
+Single m_vehicleView.flPitchCurveZero
+Single m_vehicleView.flPitchCurveLinear
+Single m_vehicleView.flRollCurveZero
+Single m_vehicleView.flRollCurveLinear
+Single m_vehicleView.flFOV
+Single m_vehicleView.flYawMin
+Single m_vehicleView.flYawMax
+Single m_vehicleView.flPitchMin
+Single m_vehicleView.flPitchMax

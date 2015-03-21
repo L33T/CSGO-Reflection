@@ -1,0 +1,4 @@
+DT_SpriteOriented, base DT_Sprite
+1 properties
+
+DataTable baseclass ("DT_Sprite")

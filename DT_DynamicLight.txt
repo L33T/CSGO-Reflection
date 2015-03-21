@@ -1,0 +1,11 @@
+DT_DynamicLight, base DT_BaseEntity
+8 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Int32 m_Flags
+Int32 m_LightStyle
+Single m_Radius
+Int32 m_Exponent
+Single m_InnerAngle
+Single m_OuterAngle
+Single m_SpotRadius

@@ -1,0 +1,4 @@
+DT_FireCrackerBlast, base DT_Inferno
+1 properties
+
+DataTable baseclass ("DT_Inferno")

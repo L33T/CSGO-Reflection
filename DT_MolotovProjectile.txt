@@ -1,0 +1,5 @@
+DT_MolotovProjectile, base DT_BaseCSGrenadeProjectile
+2 properties
+
+DataTable baseclass ("DT_BaseCSGrenadeProjectile")
+Int32 m_bIsIncGrenade

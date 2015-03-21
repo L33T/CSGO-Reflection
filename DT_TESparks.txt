@@ -1,0 +1,7 @@
+DT_TESparks, base DT_TEParticleSystem
+4 properties
+
+DataTable baseclass ("DT_TEParticleSystem")
+Int32 m_nMagnitude
+Int32 m_nTrailLength
+Vector m_vecDir

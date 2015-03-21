@@ -1,0 +1,16 @@
+DT_Func_Dust
+13 properties
+
+Int32 m_Color
+Int32 m_SpawnRate
+Single m_flSizeMin
+Single m_flSizeMax
+Int32 m_LifetimeMin
+Int32 m_LifetimeMax
+Int32 m_DustFlags
+Int32 m_SpeedMax
+Int32 m_DistMax
+Int32 m_nModelIndex
+Single m_FallSpeed
+Int32 m_bAffectedByWind
+DataTable m_Collision ("DT_CollisionProperty")

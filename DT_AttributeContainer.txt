@@ -1,0 +1,7 @@
+DT_AttributeContainer
+4 properties
+
+Int32 m_hOuter
+Int32 m_ProviderType
+Int32 m_iReapplyProvisionParity
+DataTable m_Item ("DT_ScriptCreatedItem")

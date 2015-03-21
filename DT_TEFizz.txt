@@ -1,0 +1,8 @@
+DT_TEFizz, base DT_BaseTempEntity
+5 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+Int32 m_nEntity
+Int32 m_nModelIndex
+Int32 m_nDensity
+Int32 m_nCurrent

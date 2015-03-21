@@ -1,0 +1,25 @@
+DT_EffectData
+22 properties
+
+Single m_vOrigin.x
+Single m_vOrigin.y
+Single m_vOrigin.z
+Single m_vStart.x
+Single m_vStart.y
+Single m_vStart.z
+Vector m_vAngles
+Vector m_vNormal
+Int32 m_fFlags
+Single m_flMagnitude
+Single m_flScale
+Int32 m_nAttachmentIndex
+Int32 m_nSurfaceProp
+Int32 m_iEffectName
+Int32 m_nMaterial
+Int32 m_nDamageType
+Int32 m_nHitBox
+Int32 entindex
+Int32 m_nOtherEntIndex
+Int32 m_nColor
+Single m_flRadius
+Int32 m_bPositionsAreRelativeToEntity

@@ -1,0 +1,4 @@
+DT_PredictedViewModel, base DT_BaseViewModel
+1 properties
+
+DataTable baseclass ("DT_BaseViewModel")

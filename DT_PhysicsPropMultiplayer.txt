@@ -1,0 +1,8 @@
+DT_PhysicsPropMultiplayer, base DT_PhysicsProp
+5 properties
+
+DataTable baseclass ("DT_PhysicsProp")
+Int32 m_iPhysicsMode
+Single m_fMass
+Vector m_collisionMins
+Vector m_collisionMaxs

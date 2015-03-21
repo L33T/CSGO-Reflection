@@ -1,0 +1,10 @@
+DT_BaseCSGrenade, base DT_WeaponCSBase
+7 properties
+
+DataTable baseclass ("DT_WeaponCSBase")
+Int32 m_bRedraw
+Int32 m_bIsHeldByPlayer
+Int32 m_bPinPulled
+Single m_fThrowTime
+Int32 m_bLoopingSoundPlaying
+Single m_flThrowStrength

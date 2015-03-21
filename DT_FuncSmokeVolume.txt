@@ -1,0 +1,16 @@
+DT_FuncSmokeVolume, base DT_BaseParticleEntity
+13 properties
+
+DataTable baseclass ("DT_BaseParticleEntity")
+Int32 m_Color1
+Int32 m_Color2
+String m_MaterialName (length 255)
+Single m_ParticleDrawWidth
+Single m_ParticleSpacingDistance
+Single m_DensityRampSpeed
+Single m_RotationSpeed
+Single m_MovementSpeed
+Single m_Density
+Single m_maxDrawDistance
+Int32 m_spawnflags
+DataTable m_Collision ("DT_CollisionProperty")

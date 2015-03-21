@@ -1,0 +1,4 @@
+DT_WeaponM4A1, base DT_WeaponCSBaseGun
+1 properties
+
+DataTable baseclass ("DT_WeaponCSBaseGun")

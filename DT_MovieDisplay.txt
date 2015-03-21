@@ -1,0 +1,15 @@
+DT_MovieDisplay, base DT_BaseEntity
+12 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Int32 m_bEnabled
+Int32 m_bLooping
+String m_szMovieFilename (length 128)
+String m_szGroupName (length 128)
+Int32 m_bStretchToFill
+Int32 m_bForcedSlave
+Int32 m_bUseCustomUVs
+Single m_flUMin
+Single m_flUMax
+Single m_flVMin
+Single m_flVMax

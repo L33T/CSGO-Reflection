@@ -1,0 +1,14 @@
+DT_SunlightShadowControl, base DT_BaseEntity
+11 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Vector m_shadowDirection
+Int32 m_bEnabled
+String m_TextureName (length 260)
+Int32 m_LightColor
+Single m_flColorTransitionTime
+Single m_flSunDistance
+Single m_flFOV
+Single m_flNearZ
+Single m_flNorthOffset
+Int32 m_bEnableShadows

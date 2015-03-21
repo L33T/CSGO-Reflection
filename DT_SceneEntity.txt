@@ -1,0 +1,10 @@
+DT_SceneEntity, base DT_BaseEntity
+7 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Int32 m_nSceneStringIndex
+Int32 m_bIsPlayingBack
+Int32 m_bPaused
+Int32 m_bMultiplayer
+Single m_flForceClientTime
+DataTable m_hActorList ("_ST_m_hActorList_16")

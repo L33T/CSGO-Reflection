@@ -1,0 +1,13 @@
+DT_PlayerResource
+10 properties
+
+DataTable m_iPing ("m_iPing")
+DataTable m_iKills ("m_iKills")
+DataTable m_iAssists ("m_iAssists")
+DataTable m_iDeaths ("m_iDeaths")
+DataTable m_bConnected ("m_bConnected")
+DataTable m_iTeam ("m_iTeam")
+DataTable m_iPendingTeam ("m_iPendingTeam")
+DataTable m_bAlive ("m_bAlive")
+DataTable m_iHealth ("m_iHealth")
+DataTable m_iCoachingTeam ("m_iCoachingTeam")

@@ -1,0 +1,5 @@
+DT_EnvParticleScript, base DT_BaseAnimating
+2 properties
+
+DataTable baseclass ("DT_BaseAnimating")
+Single m_flSequenceScale

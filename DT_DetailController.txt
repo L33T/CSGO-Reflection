@@ -1,0 +1,5 @@
+DT_DetailController
+2 properties
+
+Single m_flFadeStartDist
+Single m_flFadeEndDist

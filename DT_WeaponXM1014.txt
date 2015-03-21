@@ -1,0 +1,5 @@
+DT_WeaponXM1014, base DT_WeaponCSBase
+2 properties
+
+DataTable baseclass ("DT_WeaponCSBase")
+Int32 m_reloadState

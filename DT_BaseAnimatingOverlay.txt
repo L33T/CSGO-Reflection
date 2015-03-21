@@ -1,0 +1,5 @@
+DT_BaseAnimatingOverlay, base DT_BaseAnimating
+2 properties
+
+DataTable baseclass ("DT_BaseAnimating")
+DataTable overlay_vars ("DT_OverlayVars")

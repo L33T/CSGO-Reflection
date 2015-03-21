@@ -1,0 +1,68 @@
+DT_CSGameRules
+65 properties
+
+Int32 m_bFreezePeriod
+Int32 m_bMatchWaitingForResume
+Int32 m_bWarmupPeriod
+Single m_fWarmupPeriodEnd
+Single m_fWarmupPeriodStart
+Int32 m_iRoundTime
+Int32 m_gamePhase
+Int32 m_totalRoundsPlayed
+Int32 m_nOvertimePlaying
+Single m_timeUntilNextPhaseStarts
+Single m_flCMMItemDropRevealStartTime
+Single m_flCMMItemDropRevealEndTime
+Single m_fRoundStartTime
+Int32 m_bGameRestart
+Single m_flRestartRoundTime
+Single m_flGameStartTime
+Int32 m_iHostagesRemaining
+Int32 m_bAnyHostageReached
+Int32 m_bMapHasBombTarget
+Int32 m_bMapHasRescueZone
+Int32 m_bMapHasBuyZone
+Int32 m_bIsQueuedMatchmaking
+Int32 m_bIsValveDS
+Int32 m_bIsQuestEligible
+Int32 m_bLogoMap
+Int32 m_iNumGunGameProgressiveWeaponsCT
+Int32 m_iNumGunGameProgressiveWeaponsT
+Int32 m_iSpectatorSlotCount
+Int32 m_bBombDropped
+Int32 m_bBombPlanted
+Int32 m_iRoundWinStatus
+Single m_flDMBonusStartTime
+Single m_flDMBonusTimeLength
+Int32 m_unDMBonusWeaponLoadoutSlot
+Int32 m_bDMBonusActive
+Int32 m_bTCantBuy
+Int32 m_bCTCantBuy
+DataTable m_iMatchStats_RoundResults ("m_iMatchStats_RoundResults")
+DataTable m_iMatchStats_PlayersAlive_T ("m_iMatchStats_PlayersAlive_T")
+DataTable m_iMatchStats_PlayersAlive_CT ("m_iMatchStats_PlayersAlive_CT")
+DataTable m_GGProgressiveWeaponOrderCT ("m_GGProgressiveWeaponOrderCT")
+DataTable m_GGProgressiveWeaponOrderT ("m_GGProgressiveWeaponOrderT")
+DataTable m_GGProgressiveWeaponKillUpgradeOrderCT ("m_GGProgressiveWeaponKillUpgradeOrderCT")
+DataTable m_GGProgressiveWeaponKillUpgradeOrderT ("m_GGProgressiveWeaponKillUpgradeOrderT")
+Int32 m_MatchDevice
+DataTable m_bRandomWeaponsAllowed ("m_bRandomWeaponsAllowed")
+Int32 m_bHasMatchStarted
+DataTable m_TeamRespawnWaveTimes ("m_TeamRespawnWaveTimes")
+DataTable m_flNextRespawnWave ("m_flNextRespawnWave")
+Int32 m_nNextMapInMapgroup
+DataTable m_nEndMatchMapGroupVoteOptions ("m_nEndMatchMapGroupVoteOptions")
+Int32 m_bIsDroppingItems
+Single m_fMatchStartTime
+String m_szTournamentEventName (length 260)
+String m_szTournamentEventStage (length 260)
+String m_szTournamentPredictionsTxt (length 260)
+Int32 m_nTournamentPredictionsPct
+String m_szMatchStatTxt (length 260)
+Int32 m_nHalloweenMaskListSeed
+Int32 m_numGlobalGiftsGiven
+Int32 m_numGlobalGifters
+Int32 m_numGlobalGiftsPeriodSeconds
+DataTable m_arrFeaturedGiftersAccounts ("m_arrFeaturedGiftersAccounts")
+DataTable m_arrFeaturedGiftersGifts ("m_arrFeaturedGiftersGifts")
+DataTable m_arrTournamentActiveCasterAccounts ("m_arrTournamentActiveCasterAccounts")

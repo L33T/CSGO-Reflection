@@ -1,0 +1,4 @@
+DT_PropDoorRotating, base DT_BasePropDoor
+1 properties
+
+DataTable baseclass ("DT_BasePropDoor")

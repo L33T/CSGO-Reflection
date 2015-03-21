@@ -1,0 +1,5 @@
+DT_TEBeamFollow, base DT_BaseBeam
+2 properties
+
+DataTable baseclass ("DT_BaseBeam")
+Int32 m_iEntIndex

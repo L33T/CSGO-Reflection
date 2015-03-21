@@ -1,0 +1,10 @@
+DT_FireSmoke, base DT_BaseEntity
+7 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Single m_flStartScale
+Single m_flScale
+Single m_flScaleTime
+Int32 m_nFlags
+Int32 m_nFlameModelIndex
+Int32 m_nFlameFromAboveModelIndex

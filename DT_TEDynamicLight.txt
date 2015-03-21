@@ -1,0 +1,12 @@
+DT_TEDynamicLight, base DT_BaseTempEntity
+9 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+Vector m_vecOrigin
+Int32 r
+Int32 g
+Int32 b
+Int32 exponent
+Single m_fRadius
+Single m_fTime
+Single m_fDecay

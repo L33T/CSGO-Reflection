@@ -1,0 +1,6 @@
+DT_PhysicsProp, base DT_BreakableProp
+3 properties
+
+DataTable baseclass ("DT_BreakableProp")
+Int32 m_bAwake
+Int32 m_spawnflags

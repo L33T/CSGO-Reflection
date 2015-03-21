@@ -1,0 +1,12 @@
+DT_PointCommentaryNode, base DT_BaseAnimating
+9 properties
+
+DataTable baseclass ("DT_BaseAnimating")
+Int32 m_bActive
+Single m_flStartTime
+String m_iszCommentaryFile (length 260)
+String m_iszCommentaryFileNoHDR (length 260)
+String m_iszSpeakers (length 256)
+Int32 m_iNodeNumber
+Int32 m_iNodeNumberMax
+Int32 m_hViewPosition

@@ -1,0 +1,6 @@
+DT_EnvScreenEffect, base DT_BaseEntity
+3 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Single m_flDuration
+Int32 m_nType

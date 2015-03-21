@@ -1,0 +1,4 @@
+DT_AnimTimeMustBeFirst
+1 properties
+
+Int32 m_flAnimTime

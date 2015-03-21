@@ -1,0 +1,15 @@
+DT_AI_BaseNPC, base DT_BaseCombatCharacter
+12 properties
+
+DataTable baseclass ("DT_BaseCombatCharacter")
+Int32 m_lifeState
+Int32 m_bPerformAvoidance
+Int32 m_bIsMoving
+Int32 m_bFadeCorpse
+Int32 m_iDeathPose
+Int32 m_iDeathFrame
+Int32 m_iSpeedModRadius
+Int32 m_iSpeedModSpeed
+Int32 m_bSpeedModActive
+Int32 m_bImportanRagdoll
+Single m_flTimePingEffect

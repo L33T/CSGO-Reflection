@@ -1,0 +1,4 @@
+DT_TriggerPlayerMovement, base DT_BaseTrigger
+1 properties
+
+DataTable baseclass ("DT_BaseTrigger")

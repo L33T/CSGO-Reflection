@@ -1,0 +1,11 @@
+DT_EnvDOFController, base DT_BaseEntity
+8 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Int32 m_bDOFEnabled
+Single m_flNearBlurDepth
+Single m_flNearFocusDepth
+Single m_flFarFocusDepth
+Single m_flFarBlurDepth
+Single m_flNearBlurRadius
+Single m_flFarBlurRadius

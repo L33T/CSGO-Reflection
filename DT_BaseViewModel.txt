@@ -1,0 +1,17 @@
+DT_BaseViewModel
+14 properties
+
+Int32 m_nModelIndex
+Int32 m_hWeapon
+Int32 m_nSkin
+Int32 m_nBody
+Int32 m_nSequence
+Int32 m_nViewModelIndex
+Single m_flPlaybackRate
+Int32 m_fEffects
+Int32 m_nAnimationParity
+Int32 m_hOwner
+Int32 m_nNewSequenceParity
+Int32 m_nResetEventsParity
+Int32 m_nMuzzleFlashParity
+Int32 m_bShouldIgnoreOffsetAndAccuracy

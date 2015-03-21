@@ -1,0 +1,15 @@
+DT_LightGlow
+12 properties
+
+Int32 m_clrRender
+Int32 m_nHorizontalSize
+Int32 m_nVerticalSize
+Int32 m_nMinDist
+Int32 m_nMaxDist
+Int32 m_nOuterMaxDist
+Int32 m_spawnflags
+Vector m_vecOrigin
+Vector m_angRotation
+Int32 moveparent
+Single m_flGlowProxySize
+Single HDRColorScale

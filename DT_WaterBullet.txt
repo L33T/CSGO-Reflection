@@ -1,0 +1,4 @@
+DT_WaterBullet, base DT_BaseAnimating
+1 properties
+
+DataTable baseclass ("DT_BaseAnimating")

@@ -1,0 +1,5 @@
+DT_CSNonLocalPlayerExclusive
+2 properties
+
+VectorXY m_vecOrigin
+Single m_vecOrigin[2]

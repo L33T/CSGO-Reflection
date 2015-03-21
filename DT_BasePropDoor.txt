@@ -1,0 +1,4 @@
+DT_BasePropDoor, base DT_DynamicProp
+1 properties
+
+DataTable baseclass ("DT_DynamicProp")

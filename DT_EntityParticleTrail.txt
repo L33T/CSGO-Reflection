@@ -1,0 +1,7 @@
+DT_EntityParticleTrail, base DT_BaseParticleEntity
+4 properties
+
+DataTable baseclass ("DT_BaseParticleEntity")
+Int32 m_iMaterialName
+DataTable m_Info ("DT_EntityParticleTrailInfo")
+Int32 m_hConstraintEntity

@@ -1,0 +1,12 @@
+DT_SlideshowDisplay, base DT_BaseEntity
+9 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Int32 m_bEnabled
+String m_szDisplayText (length 128)
+String m_szSlideshowDirectory (length 128)
+DataTable m_chCurrentSlideLists ("m_chCurrentSlideLists")
+Single m_fMinSlideTime
+Single m_fMaxSlideTime
+Int32 m_iCycleType
+Int32 m_bNoListRepeats

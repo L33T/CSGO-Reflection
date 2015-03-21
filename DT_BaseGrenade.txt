@@ -1,0 +1,10 @@
+DT_BaseGrenade, base DT_BaseAnimating
+7 properties
+
+DataTable baseclass ("DT_BaseAnimating")
+Single m_flDamage
+Single m_DmgRadius
+Int32 m_bIsLive
+Int32 m_hThrower
+Vector m_vecVelocity
+Int32 m_fFlags

@@ -1,0 +1,6 @@
+DT_PhysBoxMultiplayer, base DT_PhysBox
+3 properties
+
+DataTable baseclass ("DT_PhysBox")
+Int32 m_iPhysicsMode
+Single m_fMass

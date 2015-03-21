@@ -1,0 +1,6 @@
+DT_FootstepControl, base DT_BaseTrigger
+3 properties
+
+DataTable baseclass ("DT_BaseTrigger")
+String m_source (length 16)
+String m_destination (length 16)

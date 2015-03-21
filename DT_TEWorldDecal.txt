@@ -1,0 +1,6 @@
+DT_TEWorldDecal, base DT_BaseTempEntity
+3 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+Vector m_vecOrigin
+Int32 m_nIndex

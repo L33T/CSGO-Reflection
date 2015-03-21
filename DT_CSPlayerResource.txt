@@ -1,0 +1,33 @@
+DT_CSPlayerResource, base DT_PlayerResource
+30 properties
+
+DataTable baseclass ("DT_PlayerResource")
+Int32 m_iPlayerC4
+Int32 m_iPlayerVIP
+DataTable m_bHostageAlive ("m_bHostageAlive")
+DataTable m_isHostageFollowingSomeone ("m_isHostageFollowingSomeone")
+DataTable m_iHostageEntityIDs ("m_iHostageEntityIDs")
+Vector m_bombsiteCenterA
+Vector m_bombsiteCenterB
+DataTable m_hostageRescueX ("m_hostageRescueX")
+DataTable m_hostageRescueY ("m_hostageRescueY")
+DataTable m_hostageRescueZ ("m_hostageRescueZ")
+DataTable m_iMVPs ("m_iMVPs")
+DataTable m_iArmor ("m_iArmor")
+DataTable m_bHasHelmet ("m_bHasHelmet")
+DataTable m_bHasDefuser ("m_bHasDefuser")
+DataTable m_iScore ("m_iScore")
+DataTable m_iCompetitiveRanking ("m_iCompetitiveRanking")
+DataTable m_iCompetitiveWins ("m_iCompetitiveWins")
+DataTable m_iCompTeammateColor ("m_iCompTeammateColor")
+DataTable m_bControllingBot ("m_bControllingBot")
+DataTable m_iControlledPlayer ("m_iControlledPlayer")
+DataTable m_iControlledByPlayer ("m_iControlledByPlayer")
+DataTable m_iBotDifficulty ("m_iBotDifficulty")
+DataTable m_szClan ("m_szClan")
+DataTable m_iTotalCashSpent ("m_iTotalCashSpent")
+DataTable m_iCashSpentThisRound ("m_iCashSpentThisRound")
+DataTable m_nEndMatchNextMapVotes ("m_nEndMatchNextMapVotes")
+Int32 m_bEndMatchNextMapAllVoted
+DataTable m_nActiveCoinRank ("m_nActiveCoinRank")
+DataTable m_nMusicID ("m_nMusicID")

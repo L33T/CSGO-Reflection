@@ -1,0 +1,5 @@
+DT_ProxyToggle, base DT_BaseEntity
+2 properties
+
+DataTable baseclass ("DT_BaseEntity")
+DataTable blah ("DT_ProxyToggle_ProxiedData")

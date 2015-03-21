@@ -1,0 +1,6 @@
+DT_BreakableProp, base DT_BaseAnimating
+3 properties
+
+DataTable baseclass ("DT_BaseAnimating")
+Vector m_qPreferredPlayerCarryAngles
+Int32 m_bClientPhysics

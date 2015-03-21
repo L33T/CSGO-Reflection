@@ -1,0 +1,15 @@
+DT_World, base DT_BaseEntity
+12 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Single m_flWaveHeight
+Vector m_WorldMins
+Vector m_WorldMaxs
+Int32 m_bStartDark
+Single m_flMaxOccludeeArea
+Single m_flMinOccluderArea
+Single m_flMaxPropScreenSpaceWidth
+Single m_flMinPropScreenSpaceWidth
+String m_iszDetailSpriteMaterial (length 256)
+Int32 m_bColdWorld
+Int32 m_iTimeOfDay

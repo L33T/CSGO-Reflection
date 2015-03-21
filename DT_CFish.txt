@@ -1,0 +1,11 @@
+DT_CFish
+8 properties
+
+Vector m_poolOrigin
+Single m_x
+Single m_y
+Single m_z
+Single m_angle
+Int32 m_nModelIndex
+Int32 m_lifeState
+Single m_waterLevel

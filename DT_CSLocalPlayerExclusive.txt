@@ -1,0 +1,14 @@
+DT_CSLocalPlayerExclusive
+11 properties
+
+VectorXY m_vecOrigin
+Single m_vecOrigin[2]
+Single m_flStamina
+Int32 m_iDirection
+Int32 m_iShotsFired
+Int32 m_nNumFastDucks
+Int32 m_bDuckOverride
+Single m_flVelocityModifier
+DataTable m_bPlayerDominated ("m_bPlayerDominated")
+DataTable m_bPlayerDominatingMe ("m_bPlayerDominatingMe")
+DataTable m_iWeaponPurchasesThisRound ("m_iWeaponPurchasesThisRound")

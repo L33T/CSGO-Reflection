@@ -1,0 +1,45 @@
+DT_Local
+42 properties
+
+DataTable m_chAreaBits ("m_chAreaBits")
+DataTable m_chAreaPortalBits ("m_chAreaPortalBits")
+Int32 m_iHideHUD
+Single m_flFOVRate
+Int32 m_bDucked
+Int32 m_bDucking
+Int32 m_bInDuckJump
+Int32 m_nDuckTimeMsecs
+Int32 m_nDuckJumpTimeMsecs
+Int32 m_nJumpTimeMsecs
+Single m_flFallVelocity
+Vector m_viewPunchAngle
+Vector m_aimPunchAngle
+Vector m_aimPunchAngleVel
+Int32 m_bDrawViewmodel
+Int32 m_bWearingSuit
+Int32 m_bPoisoned
+Single m_flStepSize
+Int32 m_bAllowAutoMovement
+Int32 m_skybox3d.scale
+Vector m_skybox3d.origin
+Int32 m_skybox3d.area
+Int32 m_skybox3d.fog.enable
+Int32 m_skybox3d.fog.blend
+Vector m_skybox3d.fog.dirPrimary
+Int32 m_skybox3d.fog.colorPrimary
+Int32 m_skybox3d.fog.colorSecondary
+Single m_skybox3d.fog.start
+Single m_skybox3d.fog.end
+Single m_skybox3d.fog.maxdensity
+Single m_skybox3d.fog.HDRColorScale
+Vector m_audio.localSound[0]
+Vector m_audio.localSound[1]
+Vector m_audio.localSound[2]
+Vector m_audio.localSound[3]
+Vector m_audio.localSound[4]
+Vector m_audio.localSound[5]
+Vector m_audio.localSound[6]
+Vector m_audio.localSound[7]
+Int32 m_audio.soundscapeIndex
+Int32 m_audio.localBits
+Int32 m_audio.entIndex

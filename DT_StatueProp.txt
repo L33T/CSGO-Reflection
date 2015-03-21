@@ -1,0 +1,9 @@
+DT_StatueProp, base DT_PhysicsProp
+6 properties
+
+DataTable baseclass ("DT_PhysicsProp")
+Int32 m_hInitBaseAnimating
+Int32 m_bShatter
+Int32 m_nShatterFlags
+Vector m_vShatterPosition
+Vector m_vShatterForce

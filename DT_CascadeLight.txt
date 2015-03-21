@@ -1,0 +1,10 @@
+DT_CascadeLight, base DT_BaseEntity
+7 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Vector m_shadowDirection
+Vector m_envLightShadowDirection
+Int32 m_bEnabled
+Int32 m_bUseLightEnvAngles
+Int32 m_LightColor
+Single m_flMaxShadowDist

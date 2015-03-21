@@ -1,0 +1,5 @@
+DT_TEEffectDispatch, base DT_BaseTempEntity
+2 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+DataTable m_EffectData ("DT_EffectData")

@@ -1,0 +1,16 @@
+DT_CHostage, base DT_BaseCombatCharacter
+13 properties
+
+DataTable baseclass ("DT_BaseCombatCharacter")
+Int32 m_isRescued
+Int32 m_jumpedThisFrame
+Int32 m_iHealth
+Int32 m_iMaxHealth
+Int32 m_lifeState
+Int32 m_fFlags
+Int32 m_nHostageState
+Single m_flRescueStartTime
+Single m_flGrabSuccessTime
+Single m_flDropStartTime
+Vector m_vel
+Int32 m_leader

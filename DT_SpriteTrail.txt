@@ -1,0 +1,12 @@
+DT_SpriteTrail, base DT_Sprite
+9 properties
+
+DataTable baseclass ("DT_Sprite")
+Single m_flLifeTime
+Single m_flStartWidth
+Single m_flEndWidth
+Single m_flStartWidthVariance
+Single m_flTextureRes
+Single m_flMinFadeLength
+Vector m_vecSkyboxOrigin
+Single m_flSkyboxScale

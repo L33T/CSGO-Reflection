@@ -1,0 +1,12 @@
+DT_BeamSpotlight, base DT_BaseEntity
+9 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Int32 m_nHaloIndex
+Int32 m_bSpotlightOn
+Int32 m_bHasDynamicLight
+Single m_flSpotlightMaxLength
+Single m_flSpotlightGoalWidth
+Single m_flHDRColorScale
+Int32 m_nRotationAxis
+Single m_flRotationSpeed

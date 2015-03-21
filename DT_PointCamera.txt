@@ -1,0 +1,13 @@
+DT_PointCamera, base DT_BaseEntity
+10 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Single m_FOV
+Single m_Resolution
+Int32 m_bFogEnable
+Int32 m_FogColor
+Single m_flFogStart
+Single m_flFogEnd
+Single m_flFogMaxDensity
+Int32 m_bActive
+Int32 m_bUseScreenAspectRatio

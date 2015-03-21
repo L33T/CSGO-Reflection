@@ -1,0 +1,86 @@
+DT_CSPlayer, base DT_BasePlayer
+83 properties
+
+DataTable baseclass ("DT_BasePlayer")
+DataTable cslocaldata ("DT_CSLocalPlayerExclusive")
+DataTable csnonlocaldata ("DT_CSNonLocalPlayerExclusive")
+Single m_angEyeAngles[0]
+Single m_angEyeAngles[1]
+Int32 m_iAddonBits
+Int32 m_iPrimaryAddon
+Int32 m_iSecondaryAddon
+Int32 m_iThrowGrenadeCounter
+Int32 m_bWaitForNoAttack
+Int32 m_bIsRespawningForDMBonus
+Int32 m_iPlayerState
+Int32 m_iAccount
+Int32 m_iStartAccount
+Int32 m_totalHitsOnServer
+Int32 m_bInBombZone
+Int32 m_bInBuyZone
+Int32 m_bInNoDefuseArea
+Int32 m_bKilledByTaser
+Int32 m_iMoveState
+Int32 m_iClass
+Int32 m_ArmorValue
+Vector m_angEyeAngles
+Int32 m_bHasDefuser
+Int32 m_bNightVisionOn
+Int32 m_bHasNightVision
+Int32 m_bInHostageRescueZone
+Int32 m_bIsDefusing
+Int32 m_bIsGrabbingHostage
+Int32 m_bIsScoped
+Int32 m_bIsWalking
+Int32 m_bResumeZoom
+Single m_fImmuneToGunGameDamageTime
+Int32 m_bGunGameImmunity
+Int32 m_bHasMovedSinceSpawn
+Int32 m_bMadeFinalGunGameProgressiveKill
+Int32 m_iGunGameProgressiveWeaponIndex
+Int32 m_iNumGunGameTRKillPoints
+Int32 m_iNumGunGameKillsWithCurrentWeapon
+Int32 m_iNumRoundKills
+Single m_fMolotovUseTime
+String m_szArmsModel (length 256)
+Int32 m_hCarriedHostage
+Int32 m_hCarriedHostageProp
+Int32 m_bIsRescuing
+Single m_flGroundAccelLinearFracLastTime
+Int32 m_bCanMoveDuringFreezePeriod
+Int32 m_isCurrentGunGameLeader
+Int32 m_isCurrentGunGameTeamLeader
+DataTable m_iMatchStats_Kills ("m_iMatchStats_Kills")
+DataTable m_iMatchStats_Damage ("m_iMatchStats_Damage")
+DataTable m_iMatchStats_EquipmentValue ("m_iMatchStats_EquipmentValue")
+DataTable m_iMatchStats_MoneySaved ("m_iMatchStats_MoneySaved")
+DataTable m_iMatchStats_KillReward ("m_iMatchStats_KillReward")
+DataTable m_iMatchStats_LiveTime ("m_iMatchStats_LiveTime")
+DataTable m_iMatchStats_Deaths ("m_iMatchStats_Deaths")
+DataTable m_iMatchStats_Assists ("m_iMatchStats_Assists")
+DataTable m_iMatchStats_HeadShotKills ("m_iMatchStats_HeadShotKills")
+DataTable m_iMatchStats_Objective ("m_iMatchStats_Objective")
+DataTable m_iMatchStats_CashEarned ("m_iMatchStats_CashEarned")
+DataTable m_rank ("m_rank")
+Int32 m_unMusicID
+Int32 m_bHasHelmet
+Single m_flFlashDuration
+Single m_flFlashMaxAlpha
+Int32 m_iProgressBarDuration
+Single m_flProgressBarStartTime
+Int32 m_hRagdoll
+Int32 m_cycleLatch
+Int32 m_unCurrentEquipmentValue
+Int32 m_unRoundStartEquipmentValue
+Int32 m_unFreezetimeEndEquipmentValue
+Int32 m_bIsControllingBot
+Int32 m_bCanControlObservedBot
+Int32 m_iControlledBotEntIndex
+Int32 m_bHud_MiniScoreHidden
+Int32 m_bHud_RadarHidden
+Int32 m_nLastKillerIndex
+Int32 m_nLastConcurrentKilled
+Int32 m_nDeathCamMusic
+Int32 m_bIsHoldingLookAtWeapon
+Int32 m_bIsLookingAtWeapon
+Int32 m_iNumRoundKillsHeadshots

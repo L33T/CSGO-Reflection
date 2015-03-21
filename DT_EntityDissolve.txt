@@ -1,0 +1,14 @@
+DT_EntityDissolve, base DT_BaseEntity
+11 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Single m_flStartTime
+Single m_flFadeOutStart
+Single m_flFadeOutLength
+Single m_flFadeOutModelStart
+Single m_flFadeOutModelLength
+Single m_flFadeInStart
+Single m_flFadeInLength
+Int32 m_nDissolveType
+Vector m_vDissolverOrigin
+Int32 m_nMagnitude

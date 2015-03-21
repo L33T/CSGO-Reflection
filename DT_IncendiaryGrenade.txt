@@ -1,0 +1,4 @@
+DT_IncendiaryGrenade, base DT_MolotovGrenade
+1 properties
+
+DataTable baseclass ("DT_MolotovGrenade")

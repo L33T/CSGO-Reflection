@@ -1,0 +1,10 @@
+DT_TEBubbleTrail, base DT_BaseTempEntity
+7 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+Vector m_vecMins
+Vector m_vecMaxs
+Int32 m_nModelIndex
+Single m_flWaterZ
+Int32 m_nCount
+Single m_fSpeed

@@ -1,0 +1,9 @@
+DT_TestTraceline
+6 properties
+
+Int32 m_clrRender
+Vector m_vecOrigin
+Single m_angRotation[0]
+Single m_angRotation[1]
+Single m_angRotation[2]
+Int32 moveparent

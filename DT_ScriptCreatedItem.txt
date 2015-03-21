@@ -1,0 +1,12 @@
+DT_ScriptCreatedItem
+9 properties
+
+Int32 m_iItemDefinitionIndex
+Int32 m_iEntityLevel
+Int32 m_iItemIDHigh
+Int32 m_iItemIDLow
+Int32 m_iAccountID
+Int32 m_iEntityQuality
+Int32 m_bInitialized
+String m_szCustomName (length 161)
+DataTable m_NetworkedDynamicAttributesForDemos ("DT_AttributeList")

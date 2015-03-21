@@ -1,0 +1,4 @@
+DT_FuncMonitor, base DT_FuncBrush
+1 properties
+
+DataTable baseclass ("DT_FuncBrush")

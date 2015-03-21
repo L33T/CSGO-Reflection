@@ -1,0 +1,16 @@
+DT_ColorCorrection, base DT_BaseEntity
+13 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Vector m_vecOrigin
+Single m_minFalloff
+Single m_maxFalloff
+Single m_flCurWeight
+Single m_flMaxWeight
+Single m_flFadeInDuration
+Single m_flFadeOutDuration
+String m_netLookupFilename (length 260)
+Int32 m_bEnabled
+Int32 m_bMaster
+Int32 m_bClientSide
+Int32 m_bExclusive

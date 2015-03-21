@@ -1,0 +1,8 @@
+DT_QuadraticBeam, base DT_BaseEntity
+5 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Vector m_targetPosition
+Vector m_controlPosition
+Single m_scrollRate
+Single m_flWidth

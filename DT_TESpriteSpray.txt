@@ -1,0 +1,10 @@
+DT_TESpriteSpray, base DT_BaseTempEntity
+7 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+Vector m_vecOrigin
+Vector m_vecDirection
+Int32 m_nModelIndex
+Single m_fNoise
+Int32 m_nCount
+Int32 m_nSpeed

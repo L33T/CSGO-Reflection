@@ -1,0 +1,8 @@
+DT_Ragdoll_Attached, base DT_Ragdoll
+5 properties
+
+DataTable baseclass ("DT_Ragdoll")
+Int32 m_boneIndexAttached
+Int32 m_ragdollAttachedObjectIndex
+Vector m_attachmentPointBoneSpace
+Vector m_attachmentPointRagdollSpace

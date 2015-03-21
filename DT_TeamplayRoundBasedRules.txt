@@ -1,0 +1,16 @@
+DT_TeamplayRoundBasedRules
+13 properties
+
+Int32 m_iRoundState
+Int32 m_bInWaitingForPlayers
+Int32 m_iWinningTeam
+Int32 m_bInOvertime
+Int32 m_bInSetup
+Int32 m_bSwitchedTeamsThisRound
+Int32 m_bAwaitingReadyRestart
+Single m_flRestartRoundTime
+Single m_flMapResetTime
+DataTable m_flNextRespawnWave ("m_flNextRespawnWave")
+DataTable m_TeamRespawnWaveTimes ("m_TeamRespawnWaveTimes")
+DataTable m_bTeamReady ("m_bTeamReady")
+Int32 m_bStopWatch

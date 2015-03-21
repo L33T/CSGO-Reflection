@@ -1,0 +1,9 @@
+DT_LocalWeaponData
+6 properties
+
+Int32 m_iPrimaryAmmoType
+Int32 m_iSecondaryAmmoType
+Int32 m_nViewModelIndex
+Int32 m_bFlipViewModel
+Int32 m_iWeaponOrigin
+Int32 m_iWeaponModule

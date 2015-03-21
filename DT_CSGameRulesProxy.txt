@@ -1,0 +1,5 @@
+DT_CSGameRulesProxy, base DT_GameRulesProxy
+2 properties
+
+DataTable baseclass ("DT_GameRulesProxy")
+DataTable cs_gamerules_data ("DT_CSGameRules")

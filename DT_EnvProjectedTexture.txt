@@ -1,0 +1,25 @@
+DT_EnvProjectedTexture, base DT_BaseEntity
+22 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Int32 m_hTargetEntity
+Int32 m_bState
+Int32 m_bAlwaysUpdate
+Single m_flLightFOV
+Int32 m_bEnableShadows
+Int32 m_bSimpleProjection
+Int32 m_bLightOnlyTarget
+Int32 m_bLightWorld
+Int32 m_bCameraSpace
+Single m_flBrightnessScale
+Int32 m_LightColor
+Single m_flColorTransitionTime
+Single m_flAmbient
+String m_SpotlightTextureName (length 260)
+Int32 m_nSpotlightTextureFrame
+Single m_flNearZ
+Single m_flFarZ
+Int32 m_nShadowQuality
+Single m_flProjectionSize
+Single m_flRotation
+Int32 m_iStyle

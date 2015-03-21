@@ -1,0 +1,6 @@
+DT_TEEnergySplash
+3 properties
+
+Vector m_vecPos
+Vector m_vecDir
+Int32 m_bExplosive

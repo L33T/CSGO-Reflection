@@ -1,0 +1,42 @@
+DT_BasePlayer, base DT_BaseCombatCharacter
+39 properties
+
+DataTable baseclass ("DT_BaseCombatCharacter")
+DataTable localdata ("DT_LocalPlayerExclusive")
+DataTable pl ("DT_PlayerState")
+Int32 m_iFOV
+Int32 m_iFOVStart
+Single m_flFOVTime
+Int32 m_iDefaultFOV
+Int32 m_hZoomOwner
+Int32 m_afPhysicsFlags
+Int32 m_hVehicle
+Int32 m_hUseEntity
+Int32 m_hGroundEntity
+Int32 m_iHealth
+Int32 m_lifeState
+DataTable m_iAmmo ("m_iAmmo")
+Int32 m_iBonusProgress
+Int32 m_iBonusChallenge
+Single m_flMaxspeed
+Int32 m_fFlags
+Int32 m_iObserverMode
+Int32 m_bActiveCameraMan
+Int32 m_bCameraManXRay
+Int32 m_bCameraManOverview
+Int32 m_bCameraManScoreBoard
+Int32 m_uCameraManGraphs
+Int32 m_hObserverTarget
+Int32 m_hViewModel[0]
+Array m_hViewModel (count 2)
+Int32 m_iCoachingTeam
+String m_szLastPlaceName (length 18)
+Vector m_vecLadderNormal
+Int32 m_ladderSurfaceProps
+Int32 m_ubEFNoInterpParity
+Int32 m_hPostProcessCtrl
+Int32 m_hColorCorrectionCtrl
+Int32 m_PlayerFog.m_hCtrl
+Int32 m_vphysicsCollisionState
+Int32 m_hViewEntity
+Int32 m_bShouldDrawPlayerWhileUsingViewEntity

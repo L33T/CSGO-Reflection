@@ -1,0 +1,10 @@
+DT_ParticleSmokeGrenade, base DT_BaseParticleEntity
+7 properties
+
+DataTable baseclass ("DT_BaseParticleEntity")
+Single m_flSpawnTime
+Single m_FadeStartTime
+Single m_FadeEndTime
+Vector m_MinColor
+Vector m_MaxColor
+Int32 m_CurrentStage

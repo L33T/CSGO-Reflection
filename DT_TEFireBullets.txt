@@ -1,0 +1,14 @@
+DT_TEFireBullets
+11 properties
+
+Vector m_vecOrigin
+Single m_vecAngles[0]
+Single m_vecAngles[1]
+Int32 m_iWeaponID
+Int32 m_iMode
+Int32 m_iSeed
+Int32 m_iPlayer
+Single m_fInaccuracy
+Single m_fSpread
+Int32 m_nItemDefIndex
+Int32 m_iSoundType

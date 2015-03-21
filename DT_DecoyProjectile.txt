@@ -1,0 +1,4 @@
+DT_DecoyProjectile, base DT_BaseCSGrenadeProjectile
+1 properties
+
+DataTable baseclass ("DT_BaseCSGrenadeProjectile")

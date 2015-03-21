@@ -1,0 +1,6 @@
+DT_BoneFollower, base DT_BaseEntity
+3 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Int32 m_modelIndex
+Int32 m_solidIndex

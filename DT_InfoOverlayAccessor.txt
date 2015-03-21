@@ -1,0 +1,5 @@
+DT_InfoOverlayAccessor
+2 properties
+
+Int32 m_iTextureFrameIndex
+Int32 m_iOverlayID

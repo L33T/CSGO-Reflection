@@ -1,0 +1,9 @@
+DT_WeaponC4, base DT_WeaponCSBase
+6 properties
+
+DataTable baseclass ("DT_WeaponCSBase")
+Int32 m_bStartedArming
+Int32 m_bBombPlacedAnimation
+Single m_fArmedTime
+Int32 m_bShowC4LED
+Int32 m_bIsPlantingViaUse

@@ -1,0 +1,4 @@
+_LPT_m_Attributes_32
+1 properties
+
+Int32 lengthprop32

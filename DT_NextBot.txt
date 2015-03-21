@@ -1,0 +1,4 @@
+DT_NextBot, base DT_BaseCombatCharacter
+1 properties
+
+DataTable baseclass ("DT_BaseCombatCharacter")

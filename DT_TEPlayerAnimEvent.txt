@@ -1,0 +1,6 @@
+DT_TEPlayerAnimEvent
+3 properties
+
+Int32 m_hPlayer
+Int32 m_iEvent
+Int32 m_nData

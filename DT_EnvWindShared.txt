@@ -1,0 +1,15 @@
+DT_EnvWindShared
+12 properties
+
+Int32 m_iMinWind
+Int32 m_iMaxWind
+Int32 m_iMinGust
+Int32 m_iMaxGust
+Single m_flMinGustDelay
+Single m_flMaxGustDelay
+Int32 m_iGustDirChange
+Int32 m_iWindSeed
+Int32 m_iInitialWindDir
+Single m_flInitialWindSpeed
+Single m_flStartTime
+Single m_flGustDuration

@@ -1,0 +1,4 @@
+DT_WeaponKnifeGG, base DT_WeaponKnife
+1 properties
+
+DataTable baseclass ("DT_WeaponKnife")

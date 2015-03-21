@@ -1,0 +1,4 @@
+DT_RagdollManager
+1 properties
+
+Int32 m_iCurrentMaxRagdollCount

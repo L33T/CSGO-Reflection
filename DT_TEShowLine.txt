@@ -1,0 +1,5 @@
+DT_TEShowLine, base DT_TEParticleSystem
+2 properties
+
+DataTable baseclass ("DT_TEParticleSystem")
+Vector m_vecEnd

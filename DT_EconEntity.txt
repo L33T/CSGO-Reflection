@@ -1,0 +1,11 @@
+DT_EconEntity, base DT_BaseFlex
+8 properties
+
+DataTable baseclass ("DT_BaseFlex")
+DataTable m_AttributeManager ("DT_AttributeContainer")
+Int32 m_OriginalOwnerXuidLow
+Int32 m_OriginalOwnerXuidHigh
+Int32 m_nFallbackPaintKit
+Int32 m_nFallbackSeed
+Single m_flFallbackWear
+Int32 m_nFallbackStatTrak

@@ -1,0 +1,18 @@
+DT_ParticleSystem
+15 properties
+
+Vector m_vecOrigin
+Int32 m_fEffects
+Int32 m_hOwnerEntity
+Int32 moveparent
+Int32 m_iParentAttachment
+Vector m_angRotation
+Int32 m_iEffectIndex
+Int32 m_bActive
+Int32 m_nStopType
+Single m_flStartTime
+String m_szSnapshotFileName (length 260)
+DataTable m_vServerControlPoints ("m_vServerControlPoints")
+DataTable m_iServerControlPointAssignments ("m_iServerControlPointAssignments")
+DataTable m_hControlPointEnts ("m_hControlPointEnts")
+DataTable m_iControlPointParents ("m_iControlPointParents")

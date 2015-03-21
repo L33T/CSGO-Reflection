@@ -1,0 +1,6 @@
+DT_BaseCSGrenadeProjectile, base DT_BaseGrenade
+3 properties
+
+DataTable baseclass ("DT_BaseGrenade")
+Vector m_vInitialVelocity
+Int32 m_nBounces

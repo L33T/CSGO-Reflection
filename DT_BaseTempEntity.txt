@@ -1,0 +1,3 @@
+DT_BaseTempEntity
+0 properties
+

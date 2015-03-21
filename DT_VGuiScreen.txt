@@ -1,0 +1,11 @@
+DT_VGuiScreen, base DT_BaseEntity
+8 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Single m_flWidth
+Single m_flHeight
+Int32 m_fScreenFlags
+Int32 m_nPanelName
+Int32 m_nAttachmentIndex
+Int32 m_nOverlayMaterial
+Int32 m_hPlayerOwner

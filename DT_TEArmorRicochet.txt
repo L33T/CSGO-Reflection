@@ -1,0 +1,4 @@
+DT_TEArmorRicochet, base DT_TEMetalSparks
+1 properties
+
+DataTable baseclass ("DT_TEMetalSparks")

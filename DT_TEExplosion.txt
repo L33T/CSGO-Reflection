@@ -1,0 +1,12 @@
+DT_TEExplosion, base DT_TEParticleSystem
+9 properties
+
+DataTable baseclass ("DT_TEParticleSystem")
+Int32 m_nModelIndex
+Single m_fScale
+Int32 m_nFrameRate
+Int32 m_nFlags
+Vector m_vecNormal
+Int32 m_chMaterialType
+Int32 m_nRadius
+Int32 m_nMagnitude

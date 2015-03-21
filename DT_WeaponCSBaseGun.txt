@@ -1,0 +1,6 @@
+DT_WeaponCSBaseGun, base DT_WeaponCSBase
+3 properties
+
+DataTable baseclass ("DT_WeaponCSBase")
+Int32 m_zoomLevel
+Int32 m_iBurstShotsRemaining

@@ -1,0 +1,4 @@
+DT_AttributeList
+1 properties
+
+DataTable m_Attributes ("_ST_m_Attributes_32")

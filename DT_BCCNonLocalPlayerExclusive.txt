@@ -1,0 +1,4 @@
+DT_BCCNonLocalPlayerExclusive
+1 properties
+
+DataTable m_hMyWeapons ("m_hMyWeapons")

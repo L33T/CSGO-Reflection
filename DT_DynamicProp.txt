@@ -1,0 +1,7 @@
+DT_DynamicProp, base DT_BreakableProp
+4 properties
+
+DataTable baseclass ("DT_BreakableProp")
+Int32 m_bUseHitboxesForRenderBox
+Int32 m_bShouldGlow
+Int32 m_clrGlow

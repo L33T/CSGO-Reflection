@@ -1,0 +1,8 @@
+DT_TEBeamEntPoint, base DT_BaseBeam
+5 properties
+
+DataTable baseclass ("DT_BaseBeam")
+Int32 m_nStartEntity
+Int32 m_nEndEntity
+Vector m_vecStartPoint
+Vector m_vecEndPoint

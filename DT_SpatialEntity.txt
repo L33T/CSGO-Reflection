@@ -1,0 +1,9 @@
+DT_SpatialEntity, base DT_BaseEntity
+6 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Vector m_vecOrigin
+Single m_minFalloff
+Single m_maxFalloff
+Single m_flCurWeight
+Int32 m_bEnabled

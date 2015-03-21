@@ -1,0 +1,4 @@
+DT_BCCLocalPlayerExclusive
+1 properties
+
+Single m_flNextAttack

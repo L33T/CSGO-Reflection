@@ -1,0 +1,6 @@
+DT_TEPlantBomb
+3 properties
+
+Vector m_vecOrigin
+Int32 m_iPlayer
+Int32 m_option

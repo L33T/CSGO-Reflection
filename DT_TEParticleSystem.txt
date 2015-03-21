@@ -1,0 +1,7 @@
+DT_TEParticleSystem, base DT_BaseTempEntity
+4 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+Single m_vecOrigin[0]
+Single m_vecOrigin[1]
+Single m_vecOrigin[2]

@@ -1,0 +1,6 @@
+DT_BaseTrigger, base DT_BaseToggle
+3 properties
+
+DataTable baseclass ("DT_BaseToggle")
+Int32 m_bClientSidePredicted
+Int32 m_spawnflags

@@ -1,0 +1,5 @@
+DT_TEMetalSparks
+2 properties
+
+Vector m_vecPos
+Vector m_vecDir

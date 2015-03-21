@@ -1,0 +1,9 @@
+DT_TEDecal, base DT_BaseTempEntity
+6 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+Vector m_vecOrigin
+Vector m_vecStart
+Int32 m_nEntity
+Int32 m_nHitbox
+Int32 m_nIndex

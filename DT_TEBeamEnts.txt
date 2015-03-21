@@ -1,0 +1,6 @@
+DT_TEBeamEnts, base DT_BaseBeam
+3 properties
+
+DataTable baseclass ("DT_BaseBeam")
+Int32 m_nStartEntity
+Int32 m_nEndEntity

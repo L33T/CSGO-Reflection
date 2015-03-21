@@ -1,0 +1,7 @@
+DT_Prop_Hallucination, base DT_BaseAnimating
+4 properties
+
+DataTable baseclass ("DT_BaseAnimating")
+Int32 m_bEnabled
+Single m_fVisibleTime
+Single m_fRechargeTime

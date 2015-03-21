@@ -1,0 +1,4 @@
+DT_PlayerState
+1 properties
+
+Int32 deadflag

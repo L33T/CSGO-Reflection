@@ -1,0 +1,12 @@
+DT_Sun
+9 properties
+
+Int32 m_clrRender
+Int32 m_clrOverlay
+Vector m_vDirection
+Int32 m_bOn
+Int32 m_nSize
+Int32 m_nOverlaySize
+Int32 m_nMaterial
+Int32 m_nOverlayMaterial
+Single HDRColorScale

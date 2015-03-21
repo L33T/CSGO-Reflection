@@ -1,0 +1,8 @@
+DT_EntityFreezing, base DT_BaseEntity
+5 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Vector m_vFreezingOrigin
+DataTable m_flFrozenPerHitbox ("m_flFrozenPerHitbox")
+Single m_flFrozen
+Int32 m_bFinishFreezing

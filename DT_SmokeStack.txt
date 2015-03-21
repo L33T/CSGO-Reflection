@@ -1,0 +1,22 @@
+DT_SmokeStack, base DT_BaseParticleEntity
+19 properties
+
+DataTable baseclass ("DT_BaseParticleEntity")
+Single m_SpreadSpeed
+Single m_Speed
+Single m_StartSize
+Single m_EndSize
+Single m_Rate
+Single m_JetLength
+Int32 m_bEmit
+Single m_flBaseSpread
+Single m_flTwist
+Single m_flRollSpeed
+Int32 m_iMaterialModel
+Vector m_AmbientLight.m_vPos
+Vector m_AmbientLight.m_vColor
+Single m_AmbientLight.m_flIntensity
+Vector m_DirLight.m_vPos
+Vector m_DirLight.m_vColor
+Single m_DirLight.m_flIntensity
+Vector m_vWind

@@ -1,0 +1,8 @@
+DT_TEProjectedDecal, base DT_BaseTempEntity
+5 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+Vector m_vecOrigin
+Vector m_angRotation
+Single m_flDistance
+Int32 m_nIndex

@@ -1,0 +1,7 @@
+DT_TEPlayerDecal, base DT_BaseTempEntity
+4 properties
+
+DataTable baseclass ("DT_BaseTempEntity")
+Vector m_vecOrigin
+Int32 m_nEntity
+Int32 m_nPlayer

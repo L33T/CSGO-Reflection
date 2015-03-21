@@ -1,0 +1,4 @@
+DT_FuncBrush, base DT_BaseEntity
+1 properties
+
+DataTable baseclass ("DT_BaseEntity")

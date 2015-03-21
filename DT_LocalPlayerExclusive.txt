@@ -1,0 +1,27 @@
+DT_LocalPlayerExclusive
+24 properties
+
+DataTable m_Local ("DT_Local")
+Single m_vecViewOffset[0]
+Single m_vecViewOffset[1]
+Single m_vecViewOffset[2]
+Single m_flFriction
+Int32 m_fOnTarget
+Int32 m_nTickBase
+Int32 m_nNextThinkTick
+Int32 m_hLastWeapon
+Single m_vecVelocity[0]
+Single m_vecVelocity[1]
+Single m_vecVelocity[2]
+Vector m_vecBaseVelocity
+Int32 m_hConstraintEntity
+Vector m_vecConstraintCenter
+Single m_flConstraintRadius
+Single m_flConstraintWidth
+Single m_flConstraintSpeedFactor
+Int32 m_bConstraintPastRadius
+Single m_flDeathTime
+Single m_fForceTeam
+Int32 m_nWaterLevel
+Single m_flLaggedMovementValue
+Int32 m_hTonemapController

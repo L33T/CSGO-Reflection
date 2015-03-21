@@ -1,0 +1,11 @@
+DT_EnvScreenOverlay, base DT_BaseEntity
+8 properties
+
+DataTable baseclass ("DT_BaseEntity")
+String m_iszOverlayNames[0] (length 255)
+Array m_iszOverlayNames (count 10)
+Single m_flOverlayTimes[0]
+Array m_flOverlayTimes (count 10)
+Single m_flStartTime
+Int32 m_iDesiredOverlay
+Int32 m_bIsActive

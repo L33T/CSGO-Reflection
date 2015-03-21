@@ -1,0 +1,5 @@
+DT_EnvAmbientLight, base DT_SpatialEntity
+2 properties
+
+DataTable baseclass ("DT_SpatialEntity")
+Vector m_vecColor

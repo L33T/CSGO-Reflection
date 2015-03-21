@@ -1,0 +1,11 @@
+DT_BaseCombatCharacter, base DT_BaseFlex
+8 properties
+
+DataTable baseclass ("DT_BaseFlex")
+DataTable bcc_localdata ("DT_BCCLocalPlayerExclusive")
+DataTable bcc_nonlocaldata ("DT_BCCNonLocalPlayerExclusive")
+Int32 m_LastHitGroup
+Int32 m_hActiveWeapon
+Single m_flTimeOfLastInjury
+Int32 m_nRelativeDirectionOfLastInjury
+DataTable m_hMyWeapons ("m_hMyWeapons")

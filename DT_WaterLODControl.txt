@@ -1,0 +1,6 @@
+DT_WaterLODControl, base DT_BaseEntity
+3 properties
+
+DataTable baseclass ("DT_BaseEntity")
+Single m_flCheapWaterStartDistance
+Single m_flCheapWaterEndDistance

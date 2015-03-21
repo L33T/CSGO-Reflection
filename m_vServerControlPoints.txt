@@ -1,0 +1,7 @@
+m_vServerControlPoints
+4 properties
+
+Vector 000 (length 571)
+Vector 001 (length 571)
+Vector 002 (length 571)
+Vector 003 (length 571)

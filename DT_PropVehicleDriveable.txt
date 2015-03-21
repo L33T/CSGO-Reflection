@@ -1,0 +1,18 @@
+DT_PropVehicleDriveable, base DT_BaseAnimating
+15 properties
+
+DataTable baseclass ("DT_BaseAnimating")
+Int32 m_hPlayer
+Int32 m_nSpeed
+Int32 m_nRPM
+Single m_flThrottle
+Int32 m_nBoostTimeLeft
+Int32 m_nHasBoost
+Int32 m_nScannerDisabledWeapons
+Int32 m_nScannerDisabledVehicle
+Int32 m_bEnterAnimOn
+Int32 m_bExitAnimOn
+Int32 m_bUnableToFire
+Vector m_vecEyeExitEndpoint
+Int32 m_bHasGun
+Vector m_vecGunCrosshair

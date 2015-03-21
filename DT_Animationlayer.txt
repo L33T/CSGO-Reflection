@@ -1,0 +1,8 @@
+DT_Animationlayer
+5 properties
+
+Int32 m_nSequence
+Single m_flCycle
+Single m_flPrevCycle
+Single m_flWeight
+Int32 m_nOrder

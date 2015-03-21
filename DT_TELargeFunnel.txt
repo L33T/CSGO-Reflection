@@ -1,0 +1,6 @@
+DT_TELargeFunnel, base DT_TEParticleSystem
+3 properties
+
+DataTable baseclass ("DT_TEParticleSystem")
+Int32 m_nModelIndex
+Int32 m_nReversed
