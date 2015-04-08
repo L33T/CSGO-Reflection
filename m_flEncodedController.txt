@@ -1,7 +1,7 @@
 m_flEncodedController
 4 properties
 
-Single 000 (length 222)
-Single 001 (length 222)
-Single 002 (length 222)
-Single 003 (length 222)
+Single 000 (length 221)
+Single 001 (length 221)
+Single 002 (length 221)
+Single 003 (length 221)

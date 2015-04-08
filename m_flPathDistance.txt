@@ -1,11 +1,11 @@
 m_flPathDistance
 8 properties
 
-Single 000 (length 724)
-Single 001 (length 724)
-Single 002 (length 724)
-Single 003 (length 724)
-Single 004 (length 724)
-Single 005 (length 724)
-Single 006 (length 724)
-Single 007 (length 724)
+Single 000 (length 723)
+Single 001 (length 723)
+Single 002 (length 723)
+Single 003 (length 723)
+Single 004 (length 723)
+Single 005 (length 723)
+Single 006 (length 723)
+Single 007 (length 723)

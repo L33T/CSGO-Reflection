@@ -114,6 +114,7 @@ CWeaponCSBaseGun, DT_WeaponCSBaseGun
 CWeaponCSBase, DT_WeaponCSBase
 CC4, DT_WeaponC4
 CBaseCSGrenade, DT_BaseCSGrenade
+CSmokeGrenadeProjectile, DT_SmokeGrenadeProjectile
 CMolotovProjectile, DT_MolotovProjectile
 CDecoyProjectile, DT_DecoyProjectile
 CFireCrackerBlast, DT_FireCrackerBlast
