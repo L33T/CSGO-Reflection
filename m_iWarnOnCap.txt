@@ -1,11 +1,11 @@
 m_iWarnOnCap
 8 properties
 
-Int32 000 (length 723)
-Int32 001 (length 723)
-Int32 002 (length 723)
-Int32 003 (length 723)
-Int32 004 (length 723)
-Int32 005 (length 723)
-Int32 006 (length 723)
-Int32 007 (length 723)
+Int32 000
+Int32 001
+Int32 002
+Int32 003
+Int32 004
+Int32 005
+Int32 006
+Int32 007

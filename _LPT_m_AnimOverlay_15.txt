@@ -1,4 +1,4 @@
 _LPT_m_AnimOverlay_15
 1 properties
 
-Int32 lengthprop15 (length 6802724)
+Int32 lengthprop15

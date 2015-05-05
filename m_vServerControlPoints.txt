@@ -1,7 +1,7 @@
 m_vServerControlPoints
 4 properties
 
-Vector 000 (length 570)
-Vector 001 (length 570)
-Vector 002 (length 570)
-Vector 003 (length 570)
+Vector 000
+Vector 001
+Vector 002
+Vector 003

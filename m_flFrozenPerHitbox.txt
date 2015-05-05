@@ -1,53 +1,53 @@
 m_flFrozenPerHitbox
 50 properties
 
-Single 000 (length 387)
-Single 001 (length 387)
-Single 002 (length 387)
-Single 003 (length 387)
-Single 004 (length 387)
-Single 005 (length 387)
-Single 006 (length 387)
-Single 007 (length 387)
-Single 008 (length 387)
-Single 009 (length 387)
-Single 010 (length 387)
-Single 011 (length 387)
-Single 012 (length 387)
-Single 013 (length 387)
-Single 014 (length 387)
-Single 015 (length 387)
-Single 016 (length 387)
-Single 017 (length 387)
-Single 018 (length 387)
-Single 019 (length 387)
-Single 020 (length 387)
-Single 021 (length 387)
-Single 022 (length 387)
-Single 023 (length 387)
-Single 024 (length 387)
-Single 025 (length 387)
-Single 026 (length 387)
-Single 027 (length 387)
-Single 028 (length 387)
-Single 029 (length 387)
-Single 030 (length 387)
-Single 031 (length 387)
-Single 032 (length 387)
-Single 033 (length 387)
-Single 034 (length 387)
-Single 035 (length 387)
-Single 036 (length 387)
-Single 037 (length 387)
-Single 038 (length 387)
-Single 039 (length 387)
-Single 040 (length 387)
-Single 041 (length 387)
-Single 042 (length 387)
-Single 043 (length 387)
-Single 044 (length 387)
-Single 045 (length 387)
-Single 046 (length 387)
-Single 047 (length 387)
-Single 048 (length 387)
-Single 049 (length 387)
+Single 000
+Single 001
+Single 002
+Single 003
+Single 004
+Single 005
+Single 006
+Single 007
+Single 008
+Single 009
+Single 010
+Single 011
+Single 012
+Single 013
+Single 014
+Single 015
+Single 016
+Single 017
+Single 018
+Single 019
+Single 020
+Single 021
+Single 022
+Single 023
+Single 024
+Single 025
+Single 026
+Single 027
+Single 028
+Single 029
+Single 030
+Single 031
+Single 032
+Single 033
+Single 034
+Single 035
+Single 036
+Single 037
+Single 038
+Single 039
+Single 040
+Single 041
+Single 042
+Single 043
+Single 044
+Single 045
+Single 046
+Single 047
+Single 048
+Single 049

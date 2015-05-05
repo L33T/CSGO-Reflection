@@ -1,67 +1,67 @@
 m_flTeamCapTime
 64 properties
 
-Single 000 (length 723)
-Single 001 (length 723)
-Single 002 (length 723)
-Single 003 (length 723)
-Single 004 (length 723)
-Single 005 (length 723)
-Single 006 (length 723)
-Single 007 (length 723)
-Single 008 (length 723)
-Single 009 (length 723)
-Single 010 (length 723)
-Single 011 (length 723)
-Single 012 (length 723)
-Single 013 (length 723)
-Single 014 (length 723)
-Single 015 (length 723)
-Single 016 (length 723)
-Single 017 (length 723)
-Single 018 (length 723)
-Single 019 (length 723)
-Single 020 (length 723)
-Single 021 (length 723)
-Single 022 (length 723)
-Single 023 (length 723)
-Single 024 (length 723)
-Single 025 (length 723)
-Single 026 (length 723)
-Single 027 (length 723)
-Single 028 (length 723)
-Single 029 (length 723)
-Single 030 (length 723)
-Single 031 (length 723)
-Single 032 (length 723)
-Single 033 (length 723)
-Single 034 (length 723)
-Single 035 (length 723)
-Single 036 (length 723)
-Single 037 (length 723)
-Single 038 (length 723)
-Single 039 (length 723)
-Single 040 (length 723)
-Single 041 (length 723)
-Single 042 (length 723)
-Single 043 (length 723)
-Single 044 (length 723)
-Single 045 (length 723)
-Single 046 (length 723)
-Single 047 (length 723)
-Single 048 (length 723)
-Single 049 (length 723)
-Single 050 (length 723)
-Single 051 (length 723)
-Single 052 (length 723)
-Single 053 (length 723)
-Single 054 (length 723)
-Single 055 (length 723)
-Single 056 (length 723)
-Single 057 (length 723)
-Single 058 (length 723)
-Single 059 (length 723)
-Single 060 (length 723)
-Single 061 (length 723)
-Single 062 (length 723)
-Single 063 (length 723)
+Single 000
+Single 001
+Single 002
+Single 003
+Single 004
+Single 005
+Single 006
+Single 007
+Single 008
+Single 009
+Single 010
+Single 011
+Single 012
+Single 013
+Single 014
+Single 015
+Single 016
+Single 017
+Single 018
+Single 019
+Single 020
+Single 021
+Single 022
+Single 023
+Single 024
+Single 025
+Single 026
+Single 027
+Single 028
+Single 029
+Single 030
+Single 031
+Single 032
+Single 033
+Single 034
+Single 035
+Single 036
+Single 037
+Single 038
+Single 039
+Single 040
+Single 041
+Single 042
+Single 043
+Single 044
+Single 045
+Single 046
+Single 047
+Single 048
+Single 049
+Single 050
+Single 051
+Single 052
+Single 053
+Single 054
+Single 055
+Single 056
+Single 057
+Single 058
+Single 059
+Single 060
+Single 061
+Single 062
+Single 063

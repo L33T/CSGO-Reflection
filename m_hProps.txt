@@ -1,7 +1,7 @@
 m_hProps
 4 properties
 
-Int32 000 (length 1529)
-Int32 001 (length 1529)
-Int32 002 (length 1529)
-Int32 003 (length 1529)
+Int32 000
+Int32 001
+Int32 002
+Int32 003

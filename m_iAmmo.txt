@@ -1,35 +1,35 @@
 m_iAmmo
 32 properties
 
-Int32 000 (length 337)
-Int32 001 (length 337)
-Int32 002 (length 337)
-Int32 003 (length 337)
-Int32 004 (length 337)
-Int32 005 (length 337)
-Int32 006 (length 337)
-Int32 007 (length 337)
-Int32 008 (length 337)
-Int32 009 (length 337)
-Int32 010 (length 337)
-Int32 011 (length 337)
-Int32 012 (length 337)
-Int32 013 (length 337)
-Int32 014 (length 337)
-Int32 015 (length 337)
-Int32 016 (length 337)
-Int32 017 (length 337)
-Int32 018 (length 337)
-Int32 019 (length 337)
-Int32 020 (length 337)
-Int32 021 (length 337)
-Int32 022 (length 337)
-Int32 023 (length 337)
-Int32 024 (length 337)
-Int32 025 (length 337)
-Int32 026 (length 337)
-Int32 027 (length 337)
-Int32 028 (length 337)
-Int32 029 (length 337)
-Int32 030 (length 337)
-Int32 031 (length 337)
+Int32 000
+Int32 001
+Int32 002
+Int32 003
+Int32 004
+Int32 005
+Int32 006
+Int32 007
+Int32 008
+Int32 009
+Int32 010
+Int32 011
+Int32 012
+Int32 013
+Int32 014
+Int32 015
+Int32 016
+Int32 017
+Int32 018
+Int32 019
+Int32 020
+Int32 021
+Int32 022
+Int32 023
+Int32 024
+Int32 025
+Int32 026
+Int32 027
+Int32 028
+Int32 029
+Int32 030
+Int32 031
