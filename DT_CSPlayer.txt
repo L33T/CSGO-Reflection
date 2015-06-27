@@ -1,5 +1,5 @@
 DT_CSPlayer, base DT_BasePlayer
-83 properties
+85 properties
 
 DataTable baseclass ("DT_BasePlayer")
 DataTable cslocaldata ("DT_CSLocalPlayerExclusive")
@@ -50,6 +50,7 @@ Single m_flGroundAccelLinearFracLastTime
 Int32 m_bCanMoveDuringFreezePeriod
 Int32 m_isCurrentGunGameLeader
 Int32 m_isCurrentGunGameTeamLeader
+Single m_flGuardianTooFarDistFrac
 DataTable m_iMatchStats_Kills ("m_iMatchStats_Kills")
 DataTable m_iMatchStats_Damage ("m_iMatchStats_Damage")
 DataTable m_iMatchStats_EquipmentValue ("m_iMatchStats_EquipmentValue")
@@ -74,6 +75,7 @@ Int32 m_unCurrentEquipmentValue
 Int32 m_unRoundStartEquipmentValue
 Int32 m_unFreezetimeEndEquipmentValue
 Int32 m_bIsControllingBot
+Int32 m_bHasControlledBotThisRound
 Int32 m_bCanControlObservedBot
 Int32 m_iControlledBotEntIndex
 Int32 m_bHud_MiniScoreHidden

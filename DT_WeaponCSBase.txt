@@ -1,5 +1,5 @@
 DT_WeaponCSBase, base DT_BaseCombatWeapon
-11 properties
+12 properties
 
 DataTable baseclass ("DT_BaseCombatWeapon")
 Int32 m_weaponMode
@@ -11,4 +11,5 @@ Int32 m_bBurstMode
 Int32 m_bReloadVisuallyComplete
 Int32 m_bSilencerOn
 Single m_flDoneSwitchingSilencer
+Int32 m_iOriginalTeamNumber
 Int32 m_iIronSightMode

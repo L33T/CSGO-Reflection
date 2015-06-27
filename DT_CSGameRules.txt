@@ -1,5 +1,5 @@
 DT_CSGameRules
-65 properties
+70 properties
 
 Int32 m_bFreezePeriod
 Int32 m_bMatchWaitingForResume
@@ -38,6 +38,7 @@ Int32 m_unDMBonusWeaponLoadoutSlot
 Int32 m_bDMBonusActive
 Int32 m_bTCantBuy
 Int32 m_bCTCantBuy
+Single m_flGuardianBuyUntilTime
 DataTable m_iMatchStats_RoundResults ("m_iMatchStats_RoundResults")
 DataTable m_iMatchStats_PlayersAlive_T ("m_iMatchStats_PlayersAlive_T")
 DataTable m_iMatchStats_PlayersAlive_CT ("m_iMatchStats_PlayersAlive_CT")
@@ -53,12 +54,16 @@ DataTable m_flNextRespawnWave ("m_flNextRespawnWave")
 Int32 m_nNextMapInMapgroup
 DataTable m_nEndMatchMapGroupVoteOptions ("m_nEndMatchMapGroupVoteOptions")
 Int32 m_bIsDroppingItems
+Int32 m_iActiveAssassinationTargetMissionID
 Single m_fMatchStartTime
 String m_szTournamentEventName (length 260)
 String m_szTournamentEventStage (length 260)
 String m_szTournamentPredictionsTxt (length 260)
 Int32 m_nTournamentPredictionsPct
 String m_szMatchStatTxt (length 260)
+Int32 m_nGuardianModeWaveNumber
+Int32 m_nGuardianModeSpecialKillsRemaining
+Int32 m_nGuardianModeSpecialWeaponNeeded
 Int32 m_nHalloweenMaskListSeed
 Int32 m_numGlobalGiftsGiven
 Int32 m_numGlobalGifters

@@ -1,5 +1,5 @@
 DT_CSPlayerResource, base DT_PlayerResource
-30 properties
+34 properties
 
 DataTable baseclass ("DT_PlayerResource")
 Int32 m_iPlayerC4
@@ -31,3 +31,7 @@ DataTable m_nEndMatchNextMapVotes ("m_nEndMatchNextMapVotes")
 Int32 m_bEndMatchNextMapAllVoted
 DataTable m_nActiveCoinRank ("m_nActiveCoinRank")
 DataTable m_nMusicID ("m_nMusicID")
+DataTable m_nPersonaDataPublicLevel ("m_nPersonaDataPublicLevel")
+DataTable m_nPersonaDataPublicCommendsLeader ("m_nPersonaDataPublicCommendsLeader")
+DataTable m_nPersonaDataPublicCommendsTeacher ("m_nPersonaDataPublicCommendsTeacher")
+DataTable m_nPersonaDataPublicCommendsFriendly ("m_nPersonaDataPublicCommendsFriendly")
