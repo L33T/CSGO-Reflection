@@ -1,5 +1,5 @@
 DT_WeaponCSBase, base DT_BaseCombatWeapon
-12 properties
+13 properties
 
 DataTable baseclass ("DT_BaseCombatWeapon")
 Int32 m_weaponMode
@@ -8,6 +8,7 @@ Single m_fLastShotTime
 Int32 m_iRecoilIndex
 Int32 m_hPrevOwner
 Int32 m_bBurstMode
+Single m_flPostponeFireReadyTime
 Int32 m_bReloadVisuallyComplete
 Int32 m_bSilencerOn
 Single m_flDoneSwitchingSilencer

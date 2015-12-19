@@ -1,8 +1,10 @@
 DT_Animationlayer
-5 properties
+7 properties
 
 Int32 m_nSequence
 Single m_flCycle
+Single m_flPlaybackRate
 Single m_flPrevCycle
 Single m_flWeight
+Single m_flWeightDeltaRate
 Int32 m_nOrder

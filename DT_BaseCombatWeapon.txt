@@ -1,14 +1,17 @@
 DT_BaseCombatWeapon, base DT_EconEntity
-11 properties
+14 properties
 
 DataTable baseclass ("DT_EconEntity")
 DataTable LocalWeaponData ("DT_LocalWeaponData")
 DataTable LocalActiveWeaponData ("DT_LocalActiveWeaponData")
 Int32 m_iViewModelIndex
 Int32 m_iWorldModelIndex
+Int32 m_iWorldDroppedModelIndex
 Int32 m_iState
 Int32 m_hOwner
 Int32 m_iClip1
 Int32 m_iClip2
 Int32 m_iPrimaryReserveAmmoCount
 Int32 m_iSecondaryReserveAmmoCount
+Int32 m_hWeaponWorldModel
+Int32 m_iNumEmptyAttacks

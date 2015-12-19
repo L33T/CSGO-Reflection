@@ -1,5 +1,5 @@
 DT_CSPlayer, base DT_BasePlayer
-85 properties
+88 properties
 
 DataTable baseclass ("DT_BasePlayer")
 DataTable cslocaldata ("DT_CSLocalPlayerExclusive")
@@ -42,6 +42,7 @@ Int32 m_iNumGunGameTRKillPoints
 Int32 m_iNumGunGameKillsWithCurrentWeapon
 Int32 m_iNumRoundKills
 Single m_fMolotovUseTime
+Single m_fMolotovDamageTime
 String m_szArmsModel (length 256)
 Int32 m_hCarriedHostage
 Int32 m_hCarriedHostageProp
@@ -86,3 +87,5 @@ Int32 m_nDeathCamMusic
 Int32 m_bIsHoldingLookAtWeapon
 Int32 m_bIsLookingAtWeapon
 Int32 m_iNumRoundKillsHeadshots
+Single m_flRealignTime
+Int32 m_bStrafing

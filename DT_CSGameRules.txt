@@ -1,11 +1,17 @@
 DT_CSGameRules
-70 properties
+77 properties
 
 Int32 m_bFreezePeriod
 Int32 m_bMatchWaitingForResume
 Int32 m_bWarmupPeriod
 Single m_fWarmupPeriodEnd
 Single m_fWarmupPeriodStart
+Int32 m_bTerroristTimeOutActive
+Int32 m_bCTTimeOutActive
+Single m_flTerroristTimeOutRemaining
+Single m_flCTTimeOutRemaining
+Int32 m_nTerroristTimeOuts
+Int32 m_nCTTimeOuts
 Int32 m_iRoundTime
 Int32 m_gamePhase
 Int32 m_totalRoundsPlayed
@@ -32,6 +38,7 @@ Int32 m_iSpectatorSlotCount
 Int32 m_bBombDropped
 Int32 m_bBombPlanted
 Int32 m_iRoundWinStatus
+Int32 m_eRoundWinReason
 Single m_flDMBonusStartTime
 Single m_flDMBonusTimeLength
 Int32 m_unDMBonusWeaponLoadoutSlot

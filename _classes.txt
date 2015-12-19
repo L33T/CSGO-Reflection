@@ -157,6 +157,7 @@ CVoteController, DT_VoteController
 CVGuiScreen, DT_VGuiScreen
 CPropJeep, DT_PropJeep
 CPropVehicleChoreoGeneric, DT_PropVehicleChoreoGeneric
+CTriggerSoundOperator, DT_TriggerSoundOperator
 CBaseVPhysicsTrigger, DT_BaseVPhysicsTrigger
 CTriggerPlayerMovement, DT_TriggerPlayerMovement
 CBaseTrigger, DT_BaseTrigger
@@ -244,3 +245,4 @@ CBaseViewModel, DT_BaseViewModel
 CBaseParticleEntity, DT_BaseParticleEntity
 CBaseGrenade, DT_BaseGrenade
 CBaseCombatWeapon, DT_BaseCombatWeapon
+CBaseWeaponWorldModel, DT_BaseWeaponWorldModel

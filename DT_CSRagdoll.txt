@@ -1,5 +1,5 @@
 DT_CSRagdoll
-11 properties
+12 properties
 
 Vector m_vecOrigin
 Vector m_vecRagdollOrigin
@@ -12,3 +12,4 @@ Int32 m_iDeathPose
 Int32 m_iDeathFrame
 Int32 m_iTeamNum
 Int32 m_bClientSideAnimation
+Single m_flDeathYaw
