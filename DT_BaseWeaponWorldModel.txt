@@ -1,0 +1,8 @@
+DT_BaseWeaponWorldModel
+5 properties
+
+Int32 m_nModelIndex
+Int32 m_nBody
+Int32 m_fEffects
+Int32 moveparent
+Int32 m_hCombatWeaponParent

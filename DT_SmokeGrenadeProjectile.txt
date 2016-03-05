@@ -1,5 +1,6 @@
 DT_SmokeGrenadeProjectile, base DT_BaseCSGrenadeProjectile
-2 properties
+3 properties
 
 DataTable baseclass ("DT_BaseCSGrenadeProjectile")
 Int32 m_bDidSmokeEffect
+Int32 m_nSmokeEffectTickBegin

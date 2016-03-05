@@ -1,0 +1,5 @@
+DT_TriggerSoundOperator, base DT_BaseTrigger
+2 properties
+
+DataTable baseclass ("DT_BaseTrigger")
+Int32 m_nSoundOperator
